@@ -1,0 +1,40 @@
+<template>
+    <div class="register">
+        <div class="form-table">
+            <div class="header">
+                <h2></h2>
+            </div>
+            <form>
+                <input
+                   type="text"
+                   autofocus=""
+                   placeholder="请输入您的手机号"
+                   value="">
+                </input><br>
+                <input
+                   type="text"
+                   autofocus=""
+                   placeholder=""
+                   value="">
+                </input><label></label><span>看不清，换一张</span><br>
+                <input type="tex" name="" value=""><span>获去验证码</span>
+            </form>
+            <div class="footer">
+                
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+    export default{
+        data(){
+            return{
+
+            }
+        },
+        
+    }
+</script>
+<style>
+
+</style>

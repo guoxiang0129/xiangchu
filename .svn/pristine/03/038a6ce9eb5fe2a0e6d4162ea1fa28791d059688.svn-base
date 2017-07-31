@@ -1,0 +1,14 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1499779326000,
+    "data": {
+        "albums": [{
+            "series_id": "128",
+            "album": "爱女生杂志",
+            "album_logo": "http://img.szzhangchu.com/1490944525470_4682098124.png",
+            "charge_count": 0
+        }]
+    }
+}

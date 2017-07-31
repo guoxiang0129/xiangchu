@@ -1,0 +1,429 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.2",
+    "timestamp": 1499781129000,
+    "data": {
+        "page": 1,
+        "size": 20,
+        "total": 46,
+        "count": 20,
+        "data": [{
+                "image": "http://img.szzhangchu.com/1496226775130_3397957726.JPG",
+                "material_video": "http://video.szzhangchu.com/taiyangbingA.mp4",
+                "process_video": "http://video.szzhangchu.com/taiyangbingB.mp4",
+                "dishes_id": 16284,
+                "dishes_name": "太阳饼",
+                "dishes_desc": "不一样的好滋味。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16284",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 251,
+                        "text": "其他",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496227756665_8899703921.JPG",
+                "material_video": "http://video.szzhangchu.com/yousupiA.mp4",
+                "process_video": "http://video.szzhangchu.com/yousupiB.mp4",
+                "dishes_id": 16287,
+                "dishes_name": "油酥皮",
+                "dishes_desc": "制作中式糕点。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16287",
+                "like": 0,
+                "tags_info": [{
+                        "id": 251,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496226021119_5339383807.jpg",
+                "material_video": "http://video.szzhangchu.com/qiaokeliliuxindangaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/qiaokeliliuxindangaoB.mp4",
+                "dishes_id": 16282,
+                "dishes_name": "巧克力流心蛋糕",
+                "dishes_desc": "可可蛋糕体，内有流动的巧克力夹馅。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16282",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 235,
+                        "text": "蛋糕",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496215888599_8834714032.JPG",
+                "material_video": "http://video.szzhangchu.com/taishiconghuamianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/taishiconghuamianbaoB.mp4",
+                "dishes_id": 16262,
+                "dishes_name": "台式葱花面包",
+                "dishes_desc": "葱香诱人。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16262",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496201123091_8228528174.JPG",
+                "material_video": "http://video.szzhangchu.com/niunairulaohuaxingmianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/niunairulaohuaxingmianbaoB.mp4",
+                "dishes_id": 16235,
+                "dishes_name": "牛奶乳酪花形面包",
+                "dishes_desc": "芝士、牛奶完美搭配，让你每口都乳香浓郁。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16235",
+                "like": 0,
+                "tags_info": [{
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496195437540_4020390377.JPG",
+                "material_video": "http://video.szzhangchu.com/manyuemeitusiA.mp4",
+                "process_video": "http://video.szzhangchu.com/manyuemeitusiB.mp4",
+                "dishes_id": 16216,
+                "dishes_name": "蔓越莓吐司",
+                "dishes_desc": "柔软的面包心，酸甜的蔓越莓干果。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16216",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495871158566_8860207547.JPG",
+                "material_video": "http://video.szzhangchu.com/jinqiangyumianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/jinqiangyumianbaoB.mp4",
+                "dishes_id": 16057,
+                "dishes_name": "金枪鱼面包",
+                "dishes_desc": "甜玉米搭配金枪鱼罐头，用好滋味的沙拉酱调味。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16057",
+                "like": 0,
+                "tags_info": [{
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1490866182873_3160994619.JPG",
+                "material_video": "http://video.szzhangchu.com/xinxingqiaokelimianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/xinxingqiaokelimianbaoB.mp4",
+                "dishes_id": 15640,
+                "dishes_name": "心型巧克力面包",
+                "dishes_desc": "香甜美味的面包。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15640",
+                "like": 0,
+                "tags_info": [{
+                    "id": 236,
+                    "text": "面包",
+                    "type": 2
+                }],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496223468245_9412753819.JPG",
+                "material_video": "http://video.szzhangchu.com/naiyouqifengdangaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/naiyouqifengdangaoB.mp4",
+                "dishes_id": 16278,
+                "dishes_name": "奶油戚风蛋糕",
+                "dishes_desc": "简单易做，让你轻易得到满足，",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16278",
+                "like": 0,
+                "tags_info": [{
+                        "id": 235,
+                        "text": "蛋糕",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1490775904616_7354523523.jpg",
+                "material_video": "http://video.szzhangchu.com/lvchaaixinjihuaquqiA.mp4",
+                "process_video": "http://video.szzhangchu.com/lvchaaixinjihuaquqiB.mp4",
+                "dishes_id": 15611,
+                "dishes_name": "绿茶爱心挤花曲奇",
+                "dishes_desc": "来学习挤花的技巧吧。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15611",
+                "like": 0,
+                "tags_info": [{
+                    "id": 237,
+                    "text": "饼干",
+                    "type": 2
+                }],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1490764635751_7249583852.jpg",
+                "material_video": "http://video.szzhangchu.com/haixingbingganA.mp4",
+                "process_video": "http://video.szzhangchu.com/haixingbingganB.mp4",
+                "dishes_id": 15607,
+                "dishes_name": "海星饼干",
+                "dishes_desc": "使用硬糖为饼干增加不一样的口感。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15607",
+                "like": 0,
+                "tags_info": [{
+                    "id": 237,
+                    "text": "饼干",
+                    "type": 2
+                }],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1490863585656_7359694753.JPG",
+                "material_video": "http://video.szzhangchu.com/nianlunxiaocanbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/nianlunxiaocanbaoB.mp4",
+                "dishes_id": 15636,
+                "dishes_name": "年轮小餐包",
+                "dishes_desc": "用香甜面团和泡芙酱制成。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15636",
+                "like": 0,
+                "tags_info": [{
+                    "id": 236,
+                    "text": "面包",
+                    "type": 2
+                }],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496215103904_4068184892.JPG",
+                "material_video": "http://video.szzhangchu.com/quanmaixiannaijuanA.mp4",
+                "process_video": "http://video.szzhangchu.com/quanmaixiannaijuanB.mp4",
+                "dishes_id": 16260,
+                "dishes_name": "全麦鲜奶卷",
+                "dishes_desc": "扑鼻麦香，口感有韧性。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16260",
+                "like": 0,
+                "tags_info": [{
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495879443339_3784740617.JPG",
+                "material_video": "http://video.szzhangchu.com/kekeputaoganmianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/kekeputaoganmianbaoB.mp4",
+                "dishes_id": 16071,
+                "dishes_name": "可可葡萄干面包",
+                "dishes_desc": "浓郁的巧克力滋味配合天天的葡萄干。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16071",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496192297458_6194544502.JPG",
+                "material_video": "http://video.szzhangchu.com/yuanweisikangA.mp4",
+                "process_video": "http://video.szzhangchu.com/yuanweisikangB.mp4",
+                "dishes_id": 16214,
+                "dishes_name": "原味司康",
+                "dishes_desc": "一口奶香司康。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16214",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496198241200_6335872609.JPG",
+                "material_video": "http://video.szzhangchu.com/mianjufokaxiaA.mp4",
+                "process_video": "http://video.szzhangchu.com/mianjufokaxiaB.mp4",
+                "dishes_id": 16225,
+                "dishes_name": "面具佛卡夏",
+                "dishes_desc": "香料风情，独特的口感。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16225",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495787235379_1598008270.JPG",
+                "material_video": "http://video.szzhangchu.com/aierlansudamianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/aierlansudamianbaoB.mp4",
+                "dishes_id": 15964,
+                "dishes_name": "爱尔兰苏打面包",
+                "dishes_desc": "使用了香醇的牛奶，并且用了中筋面粉，口感比一般的面包更绵软。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15964",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496209846923_7793142117.bmp",
+                "material_video": "http://video.szzhangchu.com/peiyarulaoxiaocanbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/peiyarulaoxiaocanbaoB.mp4",
+                "dishes_id": 16252,
+                "dishes_name": "胚芽乳酪小餐包",
+                "dishes_desc": "内陷有丰富的乳酪。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16252",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1496196539511_2927733110.JPG",
+                "material_video": "http://video.szzhangchu.com/manyuemeizhishiqiuA.mp4",
+                "process_video": "http://video.szzhangchu.com/manyuemeizhishiqiuB.mp4",
+                "dishes_id": 16219,
+                "dishes_name": "蔓越莓芝士球",
+                "dishes_desc": "芝士的浓郁加蔓越莓的甘甜。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16219",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495870259694_3720388343.JPG",
+                "material_video": "http://video.szzhangchu.com/huotuizhishibaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/huotuizhishibaoB.mp4",
+                "dishes_id": 16052,
+                "dishes_name": "火腿芝士堡",
+                "dishes_desc": "浓郁芝士流心，混合美味的火腿，香脆面包表皮，一口满足。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16052",
+                "like": 0,
+                "tags_info": [{
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            }
+        ]
+    }
+}

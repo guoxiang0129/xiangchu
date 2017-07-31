@@ -1,0 +1,67 @@
+import Vue from 'vue'
+import Vuex from 'vuex'
+Vue.use(Vuex)
+
+const state = {
+    totalPrice: 0,
+    cartList: [],
+    amount: 0
+}
+const mutations = {
+    add: function(state, item) {
+        //根据id查找
+        var _item = state.cartList.find(c => c.id === item.id)
+        if (_item) {
+            _item.count++
+        } else {
+            //数量给一个1
+            item.count = 1;
+            //商品是勾选的
+            item.isChecked = true;
+            //放到购物车里面
+            state.cartList.push(item);
+        }
+        // 在store中的相应的方法中及时更新总个数
+        state.amount++;
+        console.log(item.isChecked);
+    },
+    reduce: function(state, item) {
+        //根据id查找索引
+        var index = state.cartList.findIndex(c => c.id === item.id)
+        if (state.cartList[index].count >= 1) {
+            state.cartList[index].count--;
+        }
+        if (state.cartList[index].count == 0) {
+            state.cartList.splice(index, 1);
+        }
+        // 在store中的相应的方法中及时更新总个数
+        state.amount--;
+    }
+}
+const actions = {
+        add: function({ commit }, item) {
+            commit('add', item);
+        },
+        reduce: function({ commit }, item) {
+            commit('reduce', item);
+        }
+    }
+    // 购物车数据 计算属性 
+const getters = {
+    getList: function() {
+        return state.cartList;
+    },
+    getAmount: function() {
+        // state.amount = 0;
+        // for (let n in state.cartList) {
+        //     state.amount += state.cartList[n].count;
+        // }
+        return state.amount;
+    }
+}
+export default new Vuex.Store({
+    state,
+    mutations,
+    actions,
+    getters
+})

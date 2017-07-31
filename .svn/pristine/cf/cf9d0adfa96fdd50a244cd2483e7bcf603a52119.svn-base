@@ -1,0 +1,21 @@
+<template>
+    <div class="newuser-page">
+        Newuser
+    </div>
+</template>
+<script>
+    export default {
+
+    }
+</script>
+<style>
+    .newuser-page {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 11;
+        background-color: pink;
+    }
+</style>

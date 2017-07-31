@@ -1,0 +1,183 @@
+<template>
+    <div class="activity-page">
+        <alllist>
+            <div slot="header">
+                <!--顶部公用组件-->
+                <comheader :pageName='pageName'></comheader>
+            </div>
+            <!--主体-->
+            <div class="activity-cont">
+                <ul class="activity-cont-list">
+                    <li class="activity-cont-item" v-for="(item,index) in lists" :key="index">
+                        <div class="activity-item-div">
+                            <a>
+                                <img :src="item.image">
+                                <div class="ac-item-text">
+                                    <p class="time-title">2017-02-21</p>
+                                    <p class="sub-title">{{item.user_count}}人参与</p>
+                                </div>
+                            </a>
+                            <div class="tip" style="background-color:#7a7a7a;color:#e0e0e0">已结束</div>
+                        </div>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!--加载更多--> 
+            <div id="load-more" class="load">
+                还剩下
+                <span class="num">154</span>
+                专题
+            </div>
+            <!--<div id="loading" class="load hidden">加载中...</div>-->
+            <div class="footer-gap"></div>
+        </alllist>
+    </div>
+</template>
+<script>
+    import comheader from '../components/Comheader.vue'
+    // 导入公共模块
+    import alllist from '../components/Alllist'
+    export default {
+        data() {
+            return {
+                lists: [],
+                pageName:'活动'
+            }
+        },
+        methods: {
+            getData: function() {
+                var $this = this;
+                this.$http.get('../../static/activity.json').then(function(res) {
+                    console.log(res.data);
+                    $this.lists = res.data.data.data;
+                })
+            }
+        },
+        created() {
+            this.getData();
+        },
+        components: {
+            comheader,
+            alllist
+        }
+    }
+</script>
+<style scoped>
+    .activity-page {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 11;
+        background-color: #eee;
+    }
+    /*主体*/
+    
+    .activity-cont {
+        width: 100%;
+    }
+    
+    .activity-cont-list {
+        padding-top: 0.4rem;
+        background-color: #f8f8f8;
+    }
+    
+    .activity-cont-item {
+        min-height: 0rem;
+        margin-bottom: 0.2rem;
+    }
+    
+    .activity-item-div {
+        min-height: 2.5rem;
+        position: relative;
+        overflow: hidden;
+        border-bottom: 1px solid #f2f2f2;
+        transition: all 0.3s ease 0s;
+    }
+    
+    .activity-item-div>a {
+        margin-top: 0;
+        position: relative;
+        display: block;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    
+    .activity-item-div>a>img {
+        width: 100%;
+        font-size: 0px;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .ac-item-text {
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 4;
+        font-weight: 500;
+        text-align: center;
+        width: 100%;
+        height: 2rem;
+        line-height: 2rem;
+        background-color: #fff;
+    }
+    
+    .ac-item-text .time-title {
+        color: #464646;
+        font-size: 0.65rem;
+        float: right;
+        margin-right: 0.75rem;
+    }
+    
+    .ac-item-text .sub-title {
+        color: #464646;
+        font-size: 0.6rem;
+        line-height: 2rem;
+        float: left;
+        margin-left: 0.75rem;
+    }
+    /*商品右上角的已结束标识*/
+    
+    .activity-item-div .tip {
+        position: absolute;
+        z-index: 4;
+        width: 5rem;
+        height: 1rem;
+        line-height: 1rem;
+        right: 0;
+        background-color: #ff7836;
+        font-size: 0.55rem;
+        color: #FFFFFF;
+        text-align: center;
+        /*旋转45度*/
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        top: 2rem;
+        margin-right: -1.5rem;
+        margin-top: -1.5rem;
+    }
+    
+    .load {
+        margin: .5rem;
+        padding: 0 .6rem;
+        text-align: center;
+        background: #ddd;
+        color: #666;
+        font-size: .8rem;
+        height: 1.6rem;
+        line-height: 1.6rem;
+        border-radius: .8rem;
+    }
+    
+    .hidden {
+        display: none;
+    }
+    
+    .footer-gap {
+        height: 2.1rem;
+    }
+</style>

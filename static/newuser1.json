@@ -1,0 +1,57 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1499780438000,
+    "data": {
+        "logos": [{
+                "id": "7",
+                "name": "食材选储",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1462847693264_6753686672.png"
+            },
+            {
+                "id": "5",
+                "name": "食材处理",
+                "type": 1,
+                "logo": "http://img.szzhangchu.com/1462765476030_7114284859.png"
+            },
+            {
+                "id": "8",
+                "name": "手工自制",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465006389038_3277876080.png"
+            },
+            {
+                "id": "9",
+                "name": "烹饪技巧",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465031322357_5730856252.png"
+            },
+            {
+                "id": "10",
+                "name": "厨房神器",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465194419552_1662326453.png"
+            },
+            {
+                "id": "11",
+                "name": "食用保健",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465200752185_5439128870.png"
+            },
+            {
+                "id": "12",
+                "name": "变废为宝",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465203981137_1080155175.png"
+            },
+            {
+                "id": "13",
+                "name": "烘焙宝典",
+                "type": 2,
+                "logo": "http://img.szzhangchu.com/1465205789027_2706749662.png"
+            }
+        ]
+    }
+}

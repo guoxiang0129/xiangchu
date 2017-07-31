@@ -1,0 +1,135 @@
+<template>
+  <div id="app">
+    <!--<ul class="footer-nav">
+      <router-link tag="li" to="/" class="footer-item home-item">
+        掌厨
+      </router-link>
+      <router-link tag="li" to="/market" class="footer-item market-item">
+        市集
+      </router-link>
+      <router-link tag="li" to="/cart" class="footer-item cart-item">
+        <span class="pageName">购物车</span>
+      </router-link>
+      <router-link tag="li" to="/mine" class="footer-item mine-item">
+        <span class="pageName">我的</span>
+      </router-link>
+    </ul>-->
+    <smallnav></smallnav>
+    <router-view></router-view>
+  </div>
+</template>
+<script>
+    import smallnav from './components/smallNav'
+    // 引入全局默认样式
+    import './assets/reset.css'
+    export default {
+        name: 'app',
+        data() {
+            return {
+                flag: true
+            }
+        },
+        methods: {
+            /*文本大小随视口宽度变化的动态设置*/
+            screenChange: function() {
+                var winW = document.documentElement.clientWidth || document.body.clientWidth;
+                winW = winW > 640 ? 640 : winW;
+                document.documentElement.style.fontSize = winW / 16 + "px";
+                window.onresize = function() {
+                    var winwidth = document.documentElement.clientWidth || document.body.clientWidth;
+                    winwidth = winwidth > 640 ? 640 : winwidth;
+                    document.documentElement.style.fontSize = winwidth / 16 + "px";
+                }
+            },
+            getData: function() {
+                console.log(this.flag);
+            }
+
+        },
+        created() {
+            this.screenChange();
+        },
+        components:{
+            smallnav
+        }
+    }
+</script>
+
+<style>
+    /*全局基本设置*/
+    
+    html {
+        font-size: 20px;
+        background-color: #eee;
+        color: #474230;
+        /*overflow-y: scroll;*/
+    }
+    
+    html,
+    body {
+        font-family: "microsoft YaHei", sans-serif;
+    }
+    
+    body {
+        /*min-width: 320px;
+        max-width: 640px;*/
+        margin: 0 auto;
+        background-color: #eee;
+        color: #5d5d5d;
+    }
+    
+    #app {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+        color: #2c3e50;
+        /*margin-top: 60px;*/
+        font-size: .7rem;
+        height: 100%;
+        background-color: #eee;
+    }
+    
+    .footer-nav {
+        list-style: none;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2.1rem;
+        background-color: rgba(246, 246, 246, .95);
+        z-index: 15;
+        overflow: hidden;
+    }
+    
+    .footer-nav .footer-item {
+        float: left;
+        width: 25%;
+        height: 100%;
+        text-align: center;
+        color: #777;
+        font-size: .6rem;
+        position: relative;
+        padding-top: 1.1rem;
+    }
+    
+    .footer-nav .home-item {
+        background: url(./assets/home2.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .market-item {
+        background: url(./assets/market1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .cart-item {
+        background: url(./assets/shop1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .mine-item {
+        background: url(./assets/mine1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+</style>

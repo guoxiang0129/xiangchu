@@ -1,0 +1,1901 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1500277690000,
+    "data": {
+        "albums": [{
+                "series_id": "156",
+                "album": "幸福烘焙",
+                "album_logo": "http://img.szzhangchu.com/1488870942036_1677926460.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "182",
+                "album": "小莹食光",
+                "album_logo": "http://img.szzhangchu.com/1499852418722_4685559892.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "181",
+                "album": "小圆食记",
+                "album_logo": "http://img.szzhangchu.com/1499241730564_7650235763.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "177",
+                "album": "一膳斋",
+                "album_logo": "http://img.szzhangchu.com/1497597234764_6195615086.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "180",
+                "album": "东哥~私厨",
+                "album_logo": "http://img.szzhangchu.com/1498720834798_2347946479.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "158",
+                "album": "黄先生的厨房",
+                "album_logo": "http://img.szzhangchu.com/1497602324318_9820254032.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "175",
+                "album": "朝食集",
+                "album_logo": "http://img.szzhangchu.com/1497261300240_2538158964.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "174",
+                "album": "芽米日记",
+                "album_logo": "http://img.szzhangchu.com/1496481827067_4685870370.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "46",
+                "album": "爱美食洁",
+                "album_logo": "http://img.szzhangchu.com/1479958168941_8885677827.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "173",
+                "album": "熊叔厨房",
+                "album_logo": "http://img.szzhangchu.com/1495783706029_5080400634.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "42",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1461813450030_5479301490.png",
+                "charge_count": 24
+            },
+            {
+                "series_id": "116",
+                "album": "片乎千味",
+                "album_logo": "http://img.szzhangchu.com/1475143760861_7003553129.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "161",
+                "album": "办公室小野",
+                "album_logo": "http://img.szzhangchu.com/1490942963594_9181135713.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "136",
+                "album": "拾味爸爸",
+                "album_logo": "http://img.szzhangchu.com/1482484177864_7734338358.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "172",
+                "album": "烘焙速成班",
+                "album_logo": "http://img.szzhangchu.com/1496279800474_2531676144.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "170",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "159",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "115",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "168",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "124",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "163",
+                "album": "朝族媳妇辣白菜",
+                "album_logo": "http://img.szzhangchu.com/1491899075189_1467814777.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "98",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955517807_1105764108.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "63",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483508389731_9261094420.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "164",
+                "album": "有料食研所",
+                "album_logo": "http://img.szzhangchu.com/1491900805716_8641438716.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "131",
+                "album": "辣妈来辣-小辣厨房",
+                "album_logo": "http://img.szzhangchu.com/1481792678876_7500022810.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "58",
+                "album": "食行生鲜",
+                "album_logo": "http://img.szzhangchu.com/1479957615022_5564135560.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "169",
+                "album": "顿顿香面食视频",
+                "album_logo": "http://img.szzhangchu.com/1494230724798_7267812197.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "167",
+                "album": "美厨煮吧",
+                "album_logo": "http://img.szzhangchu.com/1493084737669_6231200826.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "86",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955562561_6163474041.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "166",
+                "album": "嫩食记",
+                "album_logo": "http://img.szzhangchu.com/1493005299796_6173665298.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "165",
+                "album": "探视频",
+                "album_logo": "http://img.szzhangchu.com/1492854078246_7200646874.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "23",
+                "album": "夏厨",
+                "album_logo": "http://img.szzhangchu.com/1479955720009_4105102467.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "48",
+                "album": "空腹",
+                "album_logo": "http://img.szzhangchu.com/1465891179366_6973053389.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "74",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955234746_2673268710.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "111",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957588736_1450463708.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "80",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957705146_8129218346.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "157",
+                "album": "小贤厨房",
+                "album_logo": "http://img.szzhangchu.com/1490173167248_7836761358.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "62",
+                "album": "知咚",
+                "album_logo": "http://img.szzhangchu.com/1479955243821_6825358151.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "53",
+                "album": "蘑菇娘娘",
+                "album_logo": "http://img.szzhangchu.com/1479955386292_2724610954.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "70",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1467880647761_3487380849.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "29",
+                "album": "3分钟便当",
+                "album_logo": "http://img.szzhangchu.com/1479890491838_5297298754.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "47",
+                "album": "小食刻",
+                "album_logo": "http://img.szzhangchu.com/1479957815565_8567352736.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "82",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957712611_9041472526.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "147",
+                "album": "威帅掌勺",
+                "album_logo": "http://img.szzhangchu.com/1484818363173_4055674754.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "56",
+                "album": "宝贝的搞笑妈咪",
+                "album_logo": "http://img.szzhangchu.com/1479957725076_9452734160.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "84",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955794805_5981705520.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "154",
+                "album": "膳叔",
+                "album_logo": "http://img.szzhangchu.com/1488791503699_6908797869.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "127",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955287168_8153784248.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "126",
+                "album": "一顿美食",
+                "album_logo": "http://img.szzhangchu.com/1479955585560_3553478154.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "125",
+                "album": "不二妈咪",
+                "album_logo": "http://img.szzhangchu.com/1479955575174_7447468320.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "146",
+                "album": "美味生活HowLiving",
+                "album_logo": "http://img.szzhangchu.com/1484643882946_5108769644.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "31",
+                "album": "微在涨姿势",
+                "album_logo": "http://img.szzhangchu.com/1479957773341_2305137587.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "72",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955466718_2747315288.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "132",
+                "album": "胖子食堂",
+                "album_logo": "http://img.szzhangchu.com/1481880125036_6202087330.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "119",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955696356_5627205359.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "144",
+                "album": "魔牙小食",
+                "album_logo": "http://img.szzhangchu.com/1484036585080_3510789974.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "148",
+                "album": "隐藏菜单",
+                "album_logo": "http://img.szzhangchu.com/1487138814582_4875533949.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "143",
+                "album": "与David和Sarah进餐第一季",
+                "album_logo": "http://img.szzhangchu.com/1484211235335_8194493409.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "145",
+                "album": "琉芒兔",
+                "album_logo": "http://img.szzhangchu.com/1484038317583_9547555112.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "140",
+                "album": "老宗医",
+                "album_logo": "http://img.szzhangchu.com/1484388660561_1114707030.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "141",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483685054894_4189192494.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "142",
+                "album": "葡萄酒鉴赏家",
+                "album_logo": "http://img.szzhangchu.com/1484211043929_6258709958.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "50",
+                "album": "花边食事",
+                "album_logo": "http://img.szzhangchu.com/1479955263501_1567828380.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "139",
+                "album": "拙然工坊",
+                "album_logo": "http://img.szzhangchu.com/1486348638717_3862421460.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "137",
+                "album": "上班族的便当",
+                "album_logo": "http://img.szzhangchu.com/1484553353978_3397276802.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "138",
+                "album": "乐享厨苑",
+                "album_logo": "http://img.szzhangchu.com/1482994002939_5940774149.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "26",
+                "album": "厨娘物语",
+                "album_logo": "http://img.szzhangchu.com/1479955596697_2747517568.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "78",
+                "album": "Freesiaa Made",
+                "album_logo": "http://img.szzhangchu.com/1472528000635_7006732497.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "135",
+                "album": "黎昕的阳光料理",
+                "album_logo": "http://img.szzhangchu.com/1488508076989_2451585954.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "117",
+                "album": "匠心手作",
+                "album_logo": "http://img.szzhangchu.com/1484293105222_9929764201.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "75",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955668827_5261364234.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "109",
+                "album": "绵羊料理",
+                "album_logo": "http://img.szzhangchu.com/1486539808047_5670340812.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "121",
+                "album": "蓝猪坊",
+                "album_logo": "http://img.szzhangchu.com/1484038813201_7431520020.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "134",
+                "album": "xing星男厨",
+                "album_logo": "http://img.szzhangchu.com/1483950081724_1578367431.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "133",
+                "album": "美美的美美-",
+                "album_logo": "http://img.szzhangchu.com/1482142534973_2267962182.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "130",
+                "album": "可可私厨",
+                "album_logo": "http://img.szzhangchu.com/1484210290647_4660089226.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "57",
+                "album": "开开的厨房",
+                "album_logo": "http://img.szzhangchu.com/1479958187988_3633506750.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "30",
+                "album": "膳小姐",
+                "album_logo": "http://img.szzhangchu.com/1479958408633_8586882740.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "69",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955647164_4837772325.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "76",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957677166_9424757210.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "64",
+                "album": "mall小厨",
+                "album_logo": "http://img.szzhangchu.com/1479957735301_6389738341.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "49",
+                "album": "Claire的烘培life",
+                "album_logo": "http://img.szzhangchu.com/1479957604035_5116097436.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "103",
+                "album": "食我",
+                "album_logo": "http://img.szzhangchu.com/1479955216180_6894146894.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "33",
+                "album": "咕噜生活家",
+                "album_logo": "http://img.szzhangchu.com/1479958417472_5077524979.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "129",
+                "album": "吃货小编",
+                "album_logo": "http://img.szzhangchu.com/1479955301371_2619739874.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "128",
+                "album": "大厨之作",
+                "album_logo": "http://img.szzhangchu.com/1484377215421_1115469563.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "73",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955549547_8860275436.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "123",
+                "album": "饭合Foodlink",
+                "album_logo": "http://img.szzhangchu.com/1479092325422_3796295170.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "122",
+                "album": "意彩厨房",
+                "album_logo": "http://img.szzhangchu.com/1476174173809_1063031841.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "118",
+                "album": "美食的秘密",
+                "album_logo": "http://img.szzhangchu.com/1475911883057_7327171216.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "96",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1480922675694_5850499988.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "100",
+                "album": "WISH精品餐厅指南",
+                "album_logo": "http://img.szzhangchu.com/1487145378486_7452630211.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "61",
+                "album": "快厨房",
+                "album_logo": "http://img.szzhangchu.com/1479955638309_8488869400.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "112",
+                "album": "没火气厨房",
+                "album_logo": "http://img.szzhangchu.com/1484727283239_6866656980.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "102",
+                "album": "美食心计",
+                "album_logo": "http://img.szzhangchu.com/1484038141656_7143717340.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "67",
+                "album": "#太阳猫#拥抱正能量早餐",
+                "album_logo": "http://img.szzhangchu.com/1487842759723_4535405890.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "77",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955740669_2033683318.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "32",
+                "album": "微体兔",
+                "album_logo": "http://img.szzhangchu.com/1479955730548_3251515421.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "22",
+                "album": "觅食记",
+                "album_logo": "http://img.szzhangchu.com/1479955710968_7445631300.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "114",
+                "album": "开心食塘",
+                "album_logo": "http://img.szzhangchu.com/1479955879909_1377455999.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "113",
+                "album": "yee恒妈",
+                "album_logo": "http://img.szzhangchu.com/1479955872980_2027337093.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "110",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955854630_1478828072.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "107",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955839773_5570175747.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "104",
+                "album": "蚊子的饱食记",
+                "album_logo": "http://img.szzhangchu.com/1479955828192_9835418532.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "97",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955816312_4609223882.jpg",
+                "charge_count": 0
+            }
+        ],
+        "data": [{
+                "series_id": 42,
+                "series_name": "#黎老师烘焙课#香甜樱桃挞",
+                "image": "http://img.szzhangchu.com/1463039360177_8203192477.jpg",
+                "episode_sum": 2,
+                "charge_count": 24,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1461813450030_5479301490.png",
+                "episode": 25,
+                "play": 100398
+            },
+            {
+                "series_id": 116,
+                "series_name": "#片乎千味#气泡少女心",
+                "image": "http://img.szzhangchu.com/1488873341750_6431145493.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "片乎千味",
+                "album_logo": "http://img.szzhangchu.com/1475143760861_7003553129.png",
+                "episode": 45,
+                "play": 220965
+            },
+            {
+                "series_id": 161,
+                "series_name": "#办公室小野#办公室小野幕后花絮首曝光",
+                "image": "http://img.szzhangchu.com/1499843988295_1406475857.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "办公室小野",
+                "album_logo": "http://img.szzhangchu.com/1490942963594_9181135713.png",
+                "episode": 30,
+                "play": 121879
+            },
+            {
+                "series_id": 136,
+                "series_name": "#拾味爸爸#小米糕~",
+                "image": "http://img.szzhangchu.com/1499248497256_5835252698.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "拾味爸爸",
+                "album_logo": "http://img.szzhangchu.com/1482484177864_7734338358.png",
+                "episode": 99,
+                "play": 390968
+            },
+            {
+                "series_id": 172,
+                "series_name": "#烘焙速成班#水果派",
+                "image": "http://img.szzhangchu.com/1496279800316_4674433995.JPG",
+                "episode_sum": 400,
+                "charge_count": 0,
+                "tag": "",
+                "album": "烘焙速成班",
+                "album_logo": "http://img.szzhangchu.com/1496279800474_2531676144.jpg",
+                "episode": 147,
+                "play": 554125
+            },
+            {
+                "series_id": 170,
+                "series_name": "#皇后的厨房#推推乐~",
+                "image": "http://img.szzhangchu.com/1499161466597_6494191953.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "episode": 21,
+                "play": 84063
+            },
+            {
+                "series_id": 159,
+                "series_name": "#宝宝健康食谱#香烤牛奶小方",
+                "image": "http://img.szzhangchu.com/1500277536110_3579086780.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "episode": 40,
+                "play": 158756
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#蟹黄堡~",
+                "image": "http://img.szzhangchu.com/1500023249614_2402443223.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 14,
+                "play": 56090
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+
+            {
+                "series_id": 42,
+                "series_name": "#黎老师烘焙课#香甜樱桃挞",
+                "image": "http://img.szzhangchu.com/1463039360177_8203192477.jpg",
+                "episode_sum": 2,
+                "charge_count": 24,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1461813450030_5479301490.png",
+                "episode": 25,
+                "play": 100398
+            },
+            {
+                "series_id": 116,
+                "series_name": "#片乎千味#气泡少女心",
+                "image": "http://img.szzhangchu.com/1488873341750_6431145493.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "片乎千味",
+                "album_logo": "http://img.szzhangchu.com/1475143760861_7003553129.png",
+                "episode": 45,
+                "play": 220965
+            },
+            {
+                "series_id": 161,
+                "series_name": "#办公室小野#办公室小野幕后花絮首曝光",
+                "image": "http://img.szzhangchu.com/1499843988295_1406475857.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "办公室小野",
+                "album_logo": "http://img.szzhangchu.com/1490942963594_9181135713.png",
+                "episode": 30,
+                "play": 121879
+            },
+            {
+                "series_id": 136,
+                "series_name": "#拾味爸爸#小米糕~",
+                "image": "http://img.szzhangchu.com/1499248497256_5835252698.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "拾味爸爸",
+                "album_logo": "http://img.szzhangchu.com/1482484177864_7734338358.png",
+                "episode": 99,
+                "play": 390968
+            },
+            {
+                "series_id": 172,
+                "series_name": "#烘焙速成班#水果派",
+                "image": "http://img.szzhangchu.com/1496279800316_4674433995.JPG",
+                "episode_sum": 400,
+                "charge_count": 0,
+                "tag": "",
+                "album": "烘焙速成班",
+                "album_logo": "http://img.szzhangchu.com/1496279800474_2531676144.jpg",
+                "episode": 147,
+                "play": 554125
+            },
+            {
+                "series_id": 170,
+                "series_name": "#皇后的厨房#推推乐~",
+                "image": "http://img.szzhangchu.com/1499161466597_6494191953.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "episode": 21,
+                "play": 84063
+            },
+            {
+                "series_id": 159,
+                "series_name": "#宝宝健康食谱#香烤牛奶小方",
+                "image": "http://img.szzhangchu.com/1500277536110_3579086780.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "episode": 40,
+                "play": 158756
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#盆栽椰汁奶冻",
+                "image": "http://img.szzhangchu.com/1500278051130_1455456265.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 17,
+                "play": 68248
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+            {
+                "series_id": 163,
+                "series_name": "#朝族媳妇辣白菜#玫瑰红糖饼",
+                "image": "http://img.szzhangchu.com/1496300873018_3824524598.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "朝族媳妇辣白菜",
+                "album_logo": "http://img.szzhangchu.com/1491899075189_1467814777.png",
+                "episode": 33,
+                "play": 130260
+            },
+            {
+                "series_id": 98,
+                "series_name": "#罐头视频#乐享奶昔冰淇淋_",
+                "image": "http://img.szzhangchu.com/1498033304146_6248195981.jpg",
+                "episode_sum": 150,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955517807_1105764108.jpg",
+                "episode": 104,
+                "play": 458817
+            },
+            {
+                "series_id": 63,
+                "series_name": "#小魔匠#木瓜菠萝果盘",
+                "image": "http://img.szzhangchu.com/1496737405952_9538847015.jpg",
+                "episode_sum": 99,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483508389731_9261094420.png",
+                "episode": 34,
+                "play": 116196
+            },
+            {
+                "series_id": 164,
+                "series_name": "#有料食研所#荔枝季，怎么吃不上火？",
+                "image": "http://img.szzhangchu.com/1496915738977_8844546761.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "有料食研所",
+                "album_logo": "http://img.szzhangchu.com/1491900805716_8641438716.png",
+                "episode": 33,
+                "play": 129969
+            },
+            {
+                "series_id": 131,
+                "series_name": "#辣妈来辣-小辣厨房#美味鳕鱼蔬菜粥，养分满满",
+                "image": "http://img.szzhangchu.com/1500022374689_5283419182.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "辣妈来辣-小辣厨房",
+                "album_logo": "http://img.szzhangchu.com/1481792678876_7500022810.png",
+                "episode": 34,
+                "play": 135311
+            },
+            {
+                "series_id": 58,
+                "series_name": "#食行生鲜#夏天冷菜 有萌萌哒荷兰猪",
+                "image": "http://img.szzhangchu.com/1497521834830_6532786872.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "食行生鲜",
+                "album_logo": "http://img.szzhangchu.com/1479957615022_5564135560.jpg",
+                "episode": 42,
+                "play": 198167
+            },
+            {
+                "series_id": 169,
+                "series_name": "#顿顿香面食视频#彩色凉皮",
+                "image": "http://img.szzhangchu.com/1498121126895_7758628826.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "顿顿香面食视频",
+                "album_logo": "http://img.szzhangchu.com/1494230724798_7267812197.png",
+                "episode": 20,
+                "play": 78862
+            },
+            {
+                "series_id": 167,
+                "series_name": "#美厨煮吧#跑龙套的土豆",
+                "image": "http://img.szzhangchu.com/1493084736360_5724867434.png",
+                "episode_sum": 36,
+                "charge_count": 0,
+                "tag": "",
+                "album": "美厨煮吧",
+                "album_logo": "http://img.szzhangchu.com/1493084737669_6231200826.png",
+                "episode": 36,
+                "play": 122340
+            },
+            {
+                "series_id": 86,
+                "series_name": "#小白食间#杏鲍菇牛肉粒",
+                "image": "http://img.szzhangchu.com/1496913276008_2418449700.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955562561_6163474041.jpg",
+                "episode": 29,
+                "play": 129250
+            },
+            {
+                "series_id": 166,
+                "series_name": "#嫩食记第一季#香蕉巧克力马芬",
+                "image": "http://img.szzhangchu.com/1493005298437_4428567491.png",
+                "episode_sum": 45,
+                "charge_count": 0,
+                "tag": "",
+                "album": "嫩食记",
+                "album_logo": "http://img.szzhangchu.com/1493005299796_6173665298.png",
+                "episode": 20,
+                "play": 61582
+            },
+            {
+                "series_id": 165,
+                "series_name": "#探视频#正宗朝鲜打糕",
+                "image": "http://img.szzhangchu.com/1494213413979_8556327950.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "探视频",
+                "album_logo": "http://img.szzhangchu.com/1492854078246_7200646874.png",
+                "episode": 33,
+                "play": 124410
+            },
+            {
+                "series_id": 23,
+                "series_name": "#夏厨#仲夏清凉罐头",
+                "image": "http://img.szzhangchu.com/1497431973306_2690465059.jpg",
+                "episode_sum": 80,
+                "charge_count": 0,
+                "tag": "",
+                "album": "夏厨",
+                "album_logo": "http://img.szzhangchu.com/1479955720009_4105102467.jpg",
+                "episode": 59,
+                "play": 337496
+            },
+            {
+                "series_id": 48,
+                "series_name": "#空腹#元气满满的早晨从一块可乐饼开始",
+                "image": "http://img.szzhangchu.com/1491980432018_9500592317.jpg",
+                "episode_sum": 30,
+                "charge_count": 0,
+                "tag": "",
+                "album": "空腹",
+                "album_logo": "http://img.szzhangchu.com/1465891179366_6973053389.jpg",
+                "episode": 29,
+                "play": 146138
+            },
+            {
+                "series_id": 74,
+                "series_name": "#好好ci#夏日甜心气泡水",
+                "image": "http://img.szzhangchu.com/1499845710274_8884403728.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955234746_2673268710.jpg",
+                "episode": 55,
+                "play": 235287
+            },
+            {
+                "series_id": 111,
+                "series_name": "#小心肝TV#蛋包饭~",
+                "image": "http://img.szzhangchu.com/1499845142330_8764503108.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957588736_1450463708.jpg",
+                "episode": 38,
+                "play": 168397
+            },
+            {
+                "series_id": 80,
+                "series_name": "#魅力厨娘#七彩蜜珠丸",
+                "image": "http://img.szzhangchu.com/1493191515596_4276807401.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957705146_8129218346.jpg",
+                "episode": 33,
+                "play": 145808
+            },
+            {
+                "series_id": 157,
+                "series_name": "#小贤厨房#从结巴到哑巴，你还爱我嘛",
+                "image": "http://img.szzhangchu.com/1491813998045_6480616974.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "小贤厨房",
+                "album_logo": "http://img.szzhangchu.com/1490173167248_7836761358.png",
+                "episode": 33,
+                "play": 126527
+            },
+            {
+                "series_id": 62,
+                "series_name": "#知咚#八宝茶",
+                "image": "http://img.szzhangchu.com/1493190547767_6308450861.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "知咚",
+                "album_logo": "http://img.szzhangchu.com/1479955243821_6825358151.jpg",
+                "episode": 33,
+                "play": 148384
+            },
+            {
+                "series_id": 53,
+                "series_name": "#蘑菇娘娘#辣炒花甲",
+                "image": "http://img.szzhangchu.com/1490781698466_6655525736.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "蘑菇娘娘",
+                "album_logo": "http://img.szzhangchu.com/1479955386292_2724610954.jpg",
+                "episode": 30,
+                "play": 139852
+            },
+            {
+                "series_id": 70,
+                "series_name": "#Tinnry下午茶#布朗尼蛋糕",
+                "image": "http://img.szzhangchu.com/1487657700187_1131056767.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1467880647761_3487380849.png",
+                "episode": 25,
+                "play": 157168
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#盆栽椰汁奶冻",
+                "image": "http://img.szzhangchu.com/1500278051130_1455456265.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 17,
+                "play": 68248
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+            {
+                "series_id": 163,
+                "series_name": "#朝族媳妇辣白菜#玫瑰红糖饼",
+                "image": "http://img.szzhangchu.com/1496300873018_3824524598.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "朝族媳妇辣白菜",
+                "album_logo": "http://img.szzhangchu.com/1491899075189_1467814777.png",
+                "episode": 33,
+                "play": 130260
+            },
+            {
+                "series_id": 98,
+                "series_name": "#罐头视频#乐享奶昔冰淇淋_",
+                "image": "http://img.szzhangchu.com/1498033304146_6248195981.jpg",
+                "episode_sum": 150,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955517807_1105764108.jpg",
+                "episode": 104,
+                "play": 458817
+            },
+            {
+                "series_id": 63,
+                "series_name": "#小魔匠#木瓜菠萝果盘",
+                "image": "http://img.szzhangchu.com/1496737405952_9538847015.jpg",
+                "episode_sum": 99,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483508389731_9261094420.png",
+                "episode": 34,
+                "play": 116196
+            },
+            {
+                "series_id": 164,
+                "series_name": "#有料食研所#荔枝季，怎么吃不上火？",
+                "image": "http://img.szzhangchu.com/1496915738977_8844546761.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "有料食研所",
+                "album_logo": "http://img.szzhangchu.com/1491900805716_8641438716.png",
+                "episode": 33,
+                "play": 129969
+            },
+            {
+                "series_id": 131,
+                "series_name": "#辣妈来辣-小辣厨房#美味鳕鱼蔬菜粥，养分满满",
+                "image": "http://img.szzhangchu.com/1500022374689_5283419182.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "辣妈来辣-小辣厨房",
+                "album_logo": "http://img.szzhangchu.com/1481792678876_7500022810.png",
+                "episode": 34,
+                "play": 135311
+            },
+            {
+                "series_id": 58,
+                "series_name": "#食行生鲜#夏天冷菜 有萌萌哒荷兰猪",
+                "image": "http://img.szzhangchu.com/1497521834830_6532786872.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "食行生鲜",
+                "album_logo": "http://img.szzhangchu.com/1479957615022_5564135560.jpg",
+                "episode": 42,
+                "play": 198167
+            },
+            {
+                "series_id": 169,
+                "series_name": "#顿顿香面食视频#彩色凉皮",
+                "image": "http://img.szzhangchu.com/1498121126895_7758628826.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "顿顿香面食视频",
+                "album_logo": "http://img.szzhangchu.com/1494230724798_7267812197.png",
+                "episode": 20,
+                "play": 78862
+            },
+            {
+                "series_id": 167,
+                "series_name": "#美厨煮吧#跑龙套的土豆",
+                "image": "http://img.szzhangchu.com/1493084736360_5724867434.png",
+                "episode_sum": 36,
+                "charge_count": 0,
+                "tag": "",
+                "album": "美厨煮吧",
+                "album_logo": "http://img.szzhangchu.com/1493084737669_6231200826.png",
+                "episode": 36,
+                "play": 122340
+            },
+            {
+                "series_id": 86,
+                "series_name": "#小白食间#杏鲍菇牛肉粒",
+                "image": "http://img.szzhangchu.com/1496913276008_2418449700.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955562561_6163474041.jpg",
+                "episode": 29,
+                "play": 129250
+            },
+            {
+                "series_id": 166,
+                "series_name": "#嫩食记第一季#香蕉巧克力马芬",
+                "image": "http://img.szzhangchu.com/1493005298437_4428567491.png",
+                "episode_sum": 45,
+                "charge_count": 0,
+                "tag": "",
+                "album": "嫩食记",
+                "album_logo": "http://img.szzhangchu.com/1493005299796_6173665298.png",
+                "episode": 20,
+                "play": 61582
+            },
+            {
+                "series_id": 165,
+                "series_name": "#探视频#正宗朝鲜打糕",
+                "image": "http://img.szzhangchu.com/1494213413979_8556327950.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "探视频",
+                "album_logo": "http://img.szzhangchu.com/1492854078246_7200646874.png",
+                "episode": 33,
+                "play": 124410
+            },
+            {
+                "series_id": 23,
+                "series_name": "#夏厨#仲夏清凉罐头",
+                "image": "http://img.szzhangchu.com/1497431973306_2690465059.jpg",
+                "episode_sum": 80,
+                "charge_count": 0,
+                "tag": "",
+                "album": "夏厨",
+                "album_logo": "http://img.szzhangchu.com/1479955720009_4105102467.jpg",
+                "episode": 59,
+                "play": 337496
+            },
+            {
+                "series_id": 48,
+                "series_name": "#空腹#元气满满的早晨从一块可乐饼开始",
+                "image": "http://img.szzhangchu.com/1491980432018_9500592317.jpg",
+                "episode_sum": 30,
+                "charge_count": 0,
+                "tag": "",
+                "album": "空腹",
+                "album_logo": "http://img.szzhangchu.com/1465891179366_6973053389.jpg",
+                "episode": 29,
+                "play": 146138
+            },
+            {
+                "series_id": 74,
+                "series_name": "#好好ci#夏日甜心气泡水",
+                "image": "http://img.szzhangchu.com/1499845710274_8884403728.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955234746_2673268710.jpg",
+                "episode": 55,
+                "play": 235287
+            },
+            {
+                "series_id": 111,
+                "series_name": "#小心肝TV#蛋包饭~",
+                "image": "http://img.szzhangchu.com/1499845142330_8764503108.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957588736_1450463708.jpg",
+                "episode": 38,
+                "play": 168397
+            },
+            {
+                "series_id": 80,
+                "series_name": "#魅力厨娘#七彩蜜珠丸",
+                "image": "http://img.szzhangchu.com/1493191515596_4276807401.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957705146_8129218346.jpg",
+                "episode": 33,
+                "play": 145808
+            },
+            {
+                "series_id": 157,
+                "series_name": "#小贤厨房#从结巴到哑巴，你还爱我嘛",
+                "image": "http://img.szzhangchu.com/1491813998045_6480616974.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "小贤厨房",
+                "album_logo": "http://img.szzhangchu.com/1490173167248_7836761358.png",
+                "episode": 33,
+                "play": 126527
+            },
+            {
+                "series_id": 62,
+                "series_name": "#知咚#八宝茶",
+                "image": "http://img.szzhangchu.com/1493190547767_6308450861.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "知咚",
+                "album_logo": "http://img.szzhangchu.com/1479955243821_6825358151.jpg",
+                "episode": 33,
+                "play": 148384
+            },
+            {
+                "series_id": 136,
+                "series_name": "#拾味爸爸#小米糕~",
+                "image": "http://img.szzhangchu.com/1499248497256_5835252698.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "拾味爸爸",
+                "album_logo": "http://img.szzhangchu.com/1482484177864_7734338358.png",
+                "episode": 99,
+                "play": 390968
+            },
+            {
+                "series_id": 172,
+                "series_name": "#烘焙速成班#水果派",
+                "image": "http://img.szzhangchu.com/1496279800316_4674433995.JPG",
+                "episode_sum": 400,
+                "charge_count": 0,
+                "tag": "",
+                "album": "烘焙速成班",
+                "album_logo": "http://img.szzhangchu.com/1496279800474_2531676144.jpg",
+                "episode": 147,
+                "play": 554125
+            },
+            {
+                "series_id": 170,
+                "series_name": "#皇后的厨房#推推乐~",
+                "image": "http://img.szzhangchu.com/1499161466597_6494191953.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "episode": 21,
+                "play": 84063
+            },
+            {
+                "series_id": 159,
+                "series_name": "#宝宝健康食谱#香烤牛奶小方",
+                "image": "http://img.szzhangchu.com/1500277536110_3579086780.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "episode": 40,
+                "play": 158756
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#盆栽椰汁奶冻",
+                "image": "http://img.szzhangchu.com/1500278051130_1455456265.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 17,
+                "play": 68248
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+            {
+                "series_id": 163,
+                "series_name": "#朝族媳妇辣白菜#玫瑰红糖饼",
+                "image": "http://img.szzhangchu.com/1496300873018_3824524598.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "朝族媳妇辣白菜",
+                "album_logo": "http://img.szzhangchu.com/1491899075189_1467814777.png",
+                "episode": 33,
+                "play": 130260
+            },
+            {
+                "series_id": 98,
+                "series_name": "#罐头视频#乐享奶昔冰淇淋_",
+                "image": "http://img.szzhangchu.com/1498033304146_6248195981.jpg",
+                "episode_sum": 150,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955517807_1105764108.jpg",
+                "episode": 104,
+                "play": 458817
+            },
+            {
+                "series_id": 63,
+                "series_name": "#小魔匠#木瓜菠萝果盘",
+                "image": "http://img.szzhangchu.com/1496737405952_9538847015.jpg",
+                "episode_sum": 99,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483508389731_9261094420.png",
+                "episode": 34,
+                "play": 116196
+            },
+            {
+                "series_id": 164,
+                "series_name": "#有料食研所#荔枝季，怎么吃不上火？",
+                "image": "http://img.szzhangchu.com/1496915738977_8844546761.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "有料食研所",
+                "album_logo": "http://img.szzhangchu.com/1491900805716_8641438716.png",
+                "episode": 33,
+                "play": 129969
+            },
+            {
+                "series_id": 131,
+                "series_name": "#辣妈来辣-小辣厨房#美味鳕鱼蔬菜粥，养分满满",
+                "image": "http://img.szzhangchu.com/1500022374689_5283419182.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "辣妈来辣-小辣厨房",
+                "album_logo": "http://img.szzhangchu.com/1481792678876_7500022810.png",
+                "episode": 34,
+                "play": 135311
+            },
+            {
+                "series_id": 58,
+                "series_name": "#食行生鲜#夏天冷菜 有萌萌哒荷兰猪",
+                "image": "http://img.szzhangchu.com/1497521834830_6532786872.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "食行生鲜",
+                "album_logo": "http://img.szzhangchu.com/1479957615022_5564135560.jpg",
+                "episode": 42,
+                "play": 198167
+            },
+            {
+                "series_id": 169,
+                "series_name": "#顿顿香面食视频#彩色凉皮",
+                "image": "http://img.szzhangchu.com/1498121126895_7758628826.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "顿顿香面食视频",
+                "album_logo": "http://img.szzhangchu.com/1494230724798_7267812197.png",
+                "episode": 20,
+                "play": 78862
+            },
+            {
+                "series_id": 167,
+                "series_name": "#美厨煮吧#跑龙套的土豆",
+                "image": "http://img.szzhangchu.com/1493084736360_5724867434.png",
+                "episode_sum": 36,
+                "charge_count": 0,
+                "tag": "",
+                "album": "美厨煮吧",
+                "album_logo": "http://img.szzhangchu.com/1493084737669_6231200826.png",
+                "episode": 36,
+                "play": 122340
+            },
+            {
+                "series_id": 86,
+                "series_name": "#小白食间#杏鲍菇牛肉粒",
+                "image": "http://img.szzhangchu.com/1496913276008_2418449700.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955562561_6163474041.jpg",
+                "episode": 29,
+                "play": 129250
+            },
+            {
+                "series_id": 166,
+                "series_name": "#嫩食记第一季#香蕉巧克力马芬",
+                "image": "http://img.szzhangchu.com/1493005298437_4428567491.png",
+                "episode_sum": 45,
+                "charge_count": 0,
+                "tag": "",
+                "album": "嫩食记",
+                "album_logo": "http://img.szzhangchu.com/1493005299796_6173665298.png",
+                "episode": 20,
+                "play": 61582
+            },
+            {
+                "series_id": 165,
+                "series_name": "#探视频#正宗朝鲜打糕",
+                "image": "http://img.szzhangchu.com/1494213413979_8556327950.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "探视频",
+                "album_logo": "http://img.szzhangchu.com/1492854078246_7200646874.png",
+                "episode": 33,
+                "play": 124410
+            },
+            {
+                "series_id": 23,
+                "series_name": "#夏厨#仲夏清凉罐头",
+                "image": "http://img.szzhangchu.com/1497431973306_2690465059.jpg",
+                "episode_sum": 80,
+                "charge_count": 0,
+                "tag": "",
+                "album": "夏厨",
+                "album_logo": "http://img.szzhangchu.com/1479955720009_4105102467.jpg",
+                "episode": 59,
+                "play": 337496
+            },
+            {
+                "series_id": 48,
+                "series_name": "#空腹#元气满满的早晨从一块可乐饼开始",
+                "image": "http://img.szzhangchu.com/1491980432018_9500592317.jpg",
+                "episode_sum": 30,
+                "charge_count": 0,
+                "tag": "",
+                "album": "空腹",
+                "album_logo": "http://img.szzhangchu.com/1465891179366_6973053389.jpg",
+                "episode": 29,
+                "play": 146138
+            },
+            {
+                "series_id": 74,
+                "series_name": "#好好ci#夏日甜心气泡水",
+                "image": "http://img.szzhangchu.com/1499845710274_8884403728.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955234746_2673268710.jpg",
+                "episode": 55,
+                "play": 235287
+            },
+            {
+                "series_id": 111,
+                "series_name": "#小心肝TV#蛋包饭~",
+                "image": "http://img.szzhangchu.com/1499845142330_8764503108.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957588736_1450463708.jpg",
+                "episode": 38,
+                "play": 168397
+            },
+            {
+                "series_id": 80,
+                "series_name": "#魅力厨娘#七彩蜜珠丸",
+                "image": "http://img.szzhangchu.com/1493191515596_4276807401.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479957705146_8129218346.jpg",
+                "episode": 33,
+                "play": 145808
+            },
+            {
+                "series_id": 170,
+                "series_name": "#皇后的厨房#推推乐~",
+                "image": "http://img.szzhangchu.com/1499161466597_6494191953.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "episode": 21,
+                "play": 84063
+            },
+            {
+                "series_id": 159,
+                "series_name": "#宝宝健康食谱#香烤牛奶小方",
+                "image": "http://img.szzhangchu.com/1500277536110_3579086780.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "episode": 40,
+                "play": 158756
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#蟹黄堡~",
+                "image": "http://img.szzhangchu.com/1500023249614_2402443223.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 14,
+                "play": 56090
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+            {
+                "series_id": 42,
+                "series_name": "#黎老师烘焙课#香甜樱桃挞",
+                "image": "http://img.szzhangchu.com/1463039360177_8203192477.jpg",
+                "episode_sum": 2,
+                "charge_count": 24,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1461813450030_5479301490.png",
+                "episode": 25,
+                "play": 100398
+            },
+            {
+                "series_id": 116,
+                "series_name": "#片乎千味#气泡少女心",
+                "image": "http://img.szzhangchu.com/1488873341750_6431145493.jpg",
+                "episode_sum": 60,
+                "charge_count": 0,
+                "tag": "",
+                "album": "片乎千味",
+                "album_logo": "http://img.szzhangchu.com/1475143760861_7003553129.png",
+                "episode": 45,
+                "play": 220965
+            },
+            {
+                "series_id": 161,
+                "series_name": "#办公室小野#办公室小野幕后花絮首曝光",
+                "image": "http://img.szzhangchu.com/1499843988295_1406475857.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "办公室小野",
+                "album_logo": "http://img.szzhangchu.com/1490942963594_9181135713.png",
+                "episode": 30,
+                "play": 121879
+            },
+            {
+                "series_id": 136,
+                "series_name": "#拾味爸爸#小米糕~",
+                "image": "http://img.szzhangchu.com/1499248497256_5835252698.jpg",
+                "episode_sum": 100,
+                "charge_count": 0,
+                "tag": "",
+                "album": "拾味爸爸",
+                "album_logo": "http://img.szzhangchu.com/1482484177864_7734338358.png",
+                "episode": 99,
+                "play": 390968
+            },
+            {
+                "series_id": 172,
+                "series_name": "#烘焙速成班#水果派",
+                "image": "http://img.szzhangchu.com/1496279800316_4674433995.JPG",
+                "episode_sum": 400,
+                "charge_count": 0,
+                "tag": "",
+                "album": "烘焙速成班",
+                "album_logo": "http://img.szzhangchu.com/1496279800474_2531676144.jpg",
+                "episode": 147,
+                "play": 554125
+            },
+            {
+                "series_id": 170,
+                "series_name": "#皇后的厨房#推推乐~",
+                "image": "http://img.szzhangchu.com/1499161466597_6494191953.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "皇后的厨房",
+                "album_logo": "http://img.szzhangchu.com/1494237589863_6115781982.png",
+                "episode": 21,
+                "play": 84063
+            },
+            {
+                "series_id": 159,
+                "series_name": "#宝宝健康食谱#香烤牛奶小方",
+                "image": "http://img.szzhangchu.com/1500277536110_3579086780.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "宝宝健康食谱",
+                "album_logo": "http://img.szzhangchu.com/1490175570058_5047730217.png",
+                "episode": 40,
+                "play": 158756
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#盆栽椰汁奶冻",
+                "image": "http://img.szzhangchu.com/1500278051130_1455456265.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 17,
+                "play": 68248
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            },
+            {
+                "series_id": 163,
+                "series_name": "#朝族媳妇辣白菜#玫瑰红糖饼",
+                "image": "http://img.szzhangchu.com/1496300873018_3824524598.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "朝族媳妇辣白菜",
+                "album_logo": "http://img.szzhangchu.com/1491899075189_1467814777.png",
+                "episode": 33,
+                "play": 130260
+            },
+            {
+                "series_id": 98,
+                "series_name": "#罐头视频#乐享奶昔冰淇淋_",
+                "image": "http://img.szzhangchu.com/1498033304146_6248195981.jpg",
+                "episode_sum": 150,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1479955517807_1105764108.jpg",
+                "episode": 104,
+                "play": 458817
+            },
+            {
+                "series_id": 63,
+                "series_name": "#小魔匠#木瓜菠萝果盘",
+                "image": "http://img.szzhangchu.com/1496737405952_9538847015.jpg",
+                "episode_sum": 99,
+                "charge_count": 0,
+                "tag": "",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1483508389731_9261094420.png",
+                "episode": 34,
+                "play": 116196
+            },
+            {
+                "series_id": 164,
+                "series_name": "#有料食研所#荔枝季，怎么吃不上火？",
+                "image": "http://img.szzhangchu.com/1496915738977_8844546761.jpg",
+                "episode_sum": 35,
+                "charge_count": 0,
+                "tag": "",
+                "album": "有料食研所",
+                "album_logo": "http://img.szzhangchu.com/1491900805716_8641438716.png",
+                "episode": 33,
+                "play": 129969
+            },
+            {
+                "series_id": 115,
+                "series_name": "#幸福de眼泪#萝卜丝饼",
+                "image": "http://img.szzhangchu.com/1499159421506_6565930750.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "幸福de眼泪",
+                "album_logo": "http://img.szzhangchu.com/1476346039051_5817474000.png",
+                "episode": 34,
+                "play": 143961
+            },
+            {
+                "series_id": 168,
+                "series_name": "#寻味手札#盆栽椰汁奶冻",
+                "image": "http://img.szzhangchu.com/1500278051130_1455456265.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "寻味手札",
+                "album_logo": "http://img.szzhangchu.com/1494222933835_8514839431.png",
+                "episode": 17,
+                "play": 68248
+            },
+            {
+                "series_id": 124,
+                "series_name": "#无际短片#两款果汁",
+                "image": "http://img.szzhangchu.com/1497948645808_8113883493.jpg",
+                "episode_sum": 50,
+                "charge_count": 0,
+                "tag": "",
+                "album": "无际短片",
+                "album_logo": "http://img.szzhangchu.com/1479955192015_7814693011.jpg",
+                "episode": 41,
+                "play": 162971
+            }
+        ]
+    }
+}

@@ -1,0 +1,287 @@
+<template>
+    <!--我的主题  -->
+    <div class="mine">
+        <div class="page">
+            <!--头部  -->
+            <header class="header">
+                <div class="header-wrap">
+                    <div class="header-left">
+                        <router-link class="header-ico" to="">
+                            <span class="ico"></span>
+                        </router-link>
+                    </div>
+                    <div class="header-titil">我的</div>
+                </div>
+            </header>
+            <div class="header-place"></div>
+            <!--个人资料  -->
+            <div class="headering">
+                <div class="bg" :class="{user_bg_active:true}">
+                    <div class="headering-info">
+                        <router-link class="user-img" to="">
+                            <span class="headIcon">
+                                <img src="../assets/user-img.png" class="wing">
+                            </span>
+                            </span>
+                        </router-link>
+                        <h3>guoxiang250</h3>
+                        <div class="figcaption">
+                            <p>
+                                个人介绍：
+                                <span></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--下部列表  -->
+            <div class="mine-list">
+                <div class="md-align-space md-list">
+                    <router-link class="ui-link" to="">
+                        <div class="bar">
+                            我的红包
+                        </div>
+                        <div class="bar">
+                            <span class="ico ico-voucher"></span>
+                        </div>
+                    </router-link>
+                    <router-link class="more ui-link" to="">
+                        <span class="ico ico-more"></span>
+                    </router-link>
+                </div>
+                <router-link to="" class="ui-link">
+                    <div class="md-align-space md-list">
+                        <div class="bar">
+                            商城兑换
+                        </div>
+                        <span class="more">
+                            <i class="ico ico-more"></i>
+                        </span>
+                    </div>
+                </router-link>
+                <router-link to="" class="ui-link">
+                    <div class="md-align-space md-list md-address">
+                        <div class="bar">
+                            收货地址
+                        </div>
+                        <span class="more">
+                            <i class="ico ico-more"></i>
+                        </span>
+                    </div>
+                </router-link>
+                <div class="md-align-space md-list md-address">
+                    <div class="center">
+                        <router-link class="ui-link user-end" to="">退出登录</router-link>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+export default {
+
+}
+</script>
+<style>
+.mine {
+    background: #e6e6e6;
+}
+
+.header {
+    background-color: #fff;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.header-wrap {
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 0.8rem;
+    position: relative;
+    height: 2.2rem;
+}
+
+.header-left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.header-ico {
+    display: block;
+    height: 2.2rem;
+    line-height: 2.1rem;
+    width: 1.6rem;
+    text-align: center;
+}
+
+.header .ico {
+    vertical-align: top;
+    background-image: url(../assets/ico-left.png);
+    margin-right: 0.09rem;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 0.45rem;
+    background-size: cover;
+    display: inline-block;
+}
+
+.header-title {
+    width: 75%;
+    margin: 0 auto;
+    height: 2.2rem;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.headerimg {
+    width: 100%;
+    height: 11.43rem;
+}
+
+.bg {
+    width: 100%;
+    height: 11.43rem;
+    background: url(http://pub.szzhangchu.com/web/v4.2/images/img-empty.gif);
+    background-size: cover;
+    position: relative;
+}
+
+.user_bg_active {
+    background: url(../assets/top_bg.jpg) 0% 0% / cover;
+}
+
+.headering-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4rem;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0 1rem;
+    color: #fff;
+}
+
+.headIcon {
+    width: 2.6rem;
+    height: 2.6rem;
+    display: block;
+    position: absolute;
+    top: -1.3rem;
+}
+
+.headIcon img {
+    width: 2.6rem;
+    height: 2.6rem;
+    border-radius: 5rem;
+}
+
+.wimg {
+    font-size: 0px;
+    display: block;
+    margin: 0 auto;
+}
+
+.headering-info h3 {
+    font-size: 0.85rem;
+    margin: 0.4rem 3rem 0.35rem 3rem;
+    height: 1rem;
+    font-weight: 500;
+    text-align: left;
+}
+
+.headering-info .figcaption {
+    font-size: 0.65rem;
+    line-height: 0.9rem;
+    height: 1.8rem;
+    text-align: left;
+}
+
+.mine-list{
+    background-color: #e6e6e6;
+}
+.md-list {
+    position: relative;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    background-color: #fff;
+    font-size: 0.65rem;
+}
+.md-align-space:first-child {
+    margin-top: 0.5rem;
+}
+.md-align-space {
+    padding: 0 1rem;
+}
+.more {
+    display: block;
+    position: absolute;
+    right: 0.5rem;
+    top: 0;
+    vertical-align: top;
+}
+.ico-more {
+    margin-top: 0.86rem;
+    margin-left: 0.1rem;
+    width: .65rem;
+    height: .65rem;
+    background-image: url(http://pub.szzhangchu.com/web/v4.2/images/ico/ico-more.png);
+    vertical-align: top;
+}
+.bar {
+    width: 50%;
+    float: left;
+    font-size: 0.7rem;
+    color: #50493e;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: right;
+    padding-right: 0.8rem;
+}
+.bar:first-child {
+    text-align: left;
+}
+.ico-voucher {
+    margin-top: 0.65rem;
+    margin-left: 0.1rem;
+    width: 0.75rem;
+    height: 1rem;
+    background-image: url(http://pub.szzhangchu.com/web/v4.2/images/ico/ico-voucher.png);
+    vertical-align: top;
+}
+.ico {
+    background-size: cover;
+    display: inline-block;
+    vertical-align: top;
+}
+.md-list span {
+    color: #50493e;
+    display: inline-block;
+    padding: 0;
+    font-size: 0.55rem;
+}
+.md-address {
+    margin: 0.5rem 0;
+}
+.center {
+    text-align: center;
+    color: #50493e;
+    font-size: 0.7rem;
+}
+.user-end{
+    color: #ff8f5c;
+}
+.header-place{
+    height: 2.2rem;
+}
+</style>

@@ -1,0 +1,720 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.2",
+    "timestamp": 1499780814000,
+    "data": {
+        "page": 1,
+        "size": 20,
+        "total": 542,
+        "count": 20,
+        "data": [{
+                "image": "http://img.szzhangchu.com/1463650184462_7526549604.jpg",
+                "material_video": "http://video.szzhangchu.com/lanmeizhishiA.mp4",
+                "process_video": "http://video.szzhangchu.com/lanmeizhishiB.mp4",
+                "dishes_id": 15007,
+                "dishes_name": "蓝莓芝士",
+                "dishes_desc": "酸酸甜甜的回忆",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15007",
+                "like": 0,
+                "tags_info": [{
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 341,
+                        "text": "大叔",
+                        "type": 2
+                    },
+                    {
+                        "id": 235,
+                        "text": "蛋糕",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495710423091_5648527809.jpg",
+                "material_video": "http://video.szzhangchu.com/pingguobingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/pingguobingshaB.mp4",
+                "dishes_id": 15899,
+                "dishes_name": "苹果冰沙",
+                "dishes_desc": "炎炎夏日，能够喝一杯沙冰是一件非常享受的事情，这杯苹果沙冰非常值得大家一试。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15899",
+                "like": 0,
+                "tags_info": [{
+                        "id": 281,
+                        "text": "瘦脸",
+                        "type": 2
+                    },
+                    {
+                        "id": 286,
+                        "text": "去黑眼圈",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    },
+                    {
+                        "id": 295,
+                        "text": "开胃消食",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495770247339_9120202900.JPG",
+                "material_video": "http://video.szzhangchu.com/hongjiaoyanxilanhuaA.mp4",
+                "process_video": "http://video.szzhangchu.com/hongjiaoyanxilanhuaB.mp4",
+                "dishes_id": 15940,
+                "dishes_name": "红椒腌西蓝花",
+                "dishes_desc": "西蓝花营养丰富，做成腌菜既健康又美味。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15940",
+                "like": 0,
+                "tags_info": [{
+                        "id": 319,
+                        "text": "辣",
+                        "type": 2
+                    },
+                    {
+                        "id": 324,
+                        "text": "腌",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 316,
+                        "text": "酸",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495715451739_7114775887.jpg",
+                "material_video": "http://video.szzhangchu.com/shuiguoniunaibingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/shuiguoniunaibingshaB.mp4",
+                "dishes_id": 15925,
+                "dishes_name": "水果牛奶冰沙",
+                "dishes_desc": "水果和牛奶搭配，营养丰富，爽滑入口，真实美味极了！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15925",
+                "like": 0,
+                "tags_info": [{
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 295,
+                        "text": "开胃消食",
+                        "type": 2
+                    },
+                    {
+                        "id": 287,
+                        "text": "明目",
+                        "type": 2
+                    },
+                    {
+                        "id": 282,
+                        "text": "祛痘祛斑",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463628564188_5458672138.jpg",
+                "material_video": "http://video.szzhangchu.com/jingdiancaomeimusiA.mp4",
+                "process_video": "http://video.szzhangchu.com/jingdiancaomeimusiB.mp4",
+                "dishes_id": 14983,
+                "dishes_name": "经典草莓慕斯",
+                "dishes_desc": "草莓慕斯是来源于西方的一种甜品，其味道可口，制作方法简单，材料需求少，适合在party上制作。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14983",
+                "like": 0,
+                "tags_info": [{
+                        "id": 292,
+                        "text": "美容养颜",
+                        "type": 2
+                    },
+                    {
+                        "id": 341,
+                        "text": "大叔",
+                        "type": 2
+                    },
+                    {
+                        "id": 235,
+                        "text": "蛋糕",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495769816446_8702331295.JPG",
+                "material_video": "http://video.szzhangchu.com/yangcongyanyingtaoluoboA.mp4",
+                "process_video": "http://video.szzhangchu.com/yangcongyanyingtaoluoboB.mp4",
+                "dishes_id": 15949,
+                "dishes_name": "洋葱腌樱桃萝卜",
+                "dishes_desc": "脆、辛辣",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15949",
+                "like": 0,
+                "tags_info": [{
+                        "id": 316,
+                        "text": "酸",
+                        "type": 2
+                    },
+                    {
+                        "id": 324,
+                        "text": "腌",
+                        "type": 2
+                    },
+                    {
+                        "id": 319,
+                        "text": "辣",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463539441212_5369534136.jpg",
+                "material_video": "http://video.szzhangchu.com/yezicanbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/yezicanbaoB.mp4",
+                "dishes_id": 14956,
+                "dishes_name": "椰子餐包",
+                "dishes_desc": "椰香浓郁，回味甘甜的椰香包。椰丝性温，能补阳火，不仅能饱腹充饥，而且能强身健体，最适合身体虚弱、四肢乏力、容易倦怠的人享用。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14956",
+                "like": 0,
+                "tags_info": [{
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 378,
+                        "text": "早餐",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463713265975_7549484133.jpg",
+                "material_video": "http://video.szzhangchu.com/mochapaiA.mp4",
+                "process_video": "http://video.szzhangchu.com/mochapaiB.mp4",
+                "dishes_id": 15018,
+                "dishes_name": "抹茶派",
+                "dishes_desc": "抹茶类的甜品是现在时下最热门的一种类型，而抹茶派则是代表。爱吃抹茶的朋友心动不如行动，自己动手做一份属于自己的抹茶派吧。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15018",
+                "like": 0,
+                "tags_info": [{
+                        "id": 291,
+                        "text": "瘦身排毒",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 341,
+                        "text": "大叔",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495625980456_4457855503.jpg",
+                "material_video": "http://video.szzhangchu.com/nanguabingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/nanguabingshaB.mp4",
+                "dishes_id": 15850,
+                "dishes_name": "南瓜冰沙",
+                "dishes_desc": "吃过水果沙冰，南瓜沙冰是第一次尝试，感觉很不一样哦！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15850",
+                "like": 0,
+                "tags_info": [{
+                        "id": 283,
+                        "text": "减肥",
+                        "type": 2
+                    },
+                    {
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    },
+                    {
+                        "id": 291,
+                        "text": "瘦身排毒",
+                        "type": 2
+                    },
+                    {
+                        "id": 281,
+                        "text": "瘦脸",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463736763389_8273201474.jpg",
+                "material_video": "http://video.szzhangchu.com/tizinaisuA.mp4",
+                "process_video": "http://video.szzhangchu.com/tizinaisuB.mp4",
+                "dishes_id": 15041,
+                "dishes_name": "提子奶酥",
+                "dishes_desc": "糖粉的甜，加上提子的酸，酥酥的口感怎能让人不喜欢呢！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15041",
+                "like": 0,
+                "tags_info": [{
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 243,
+                        "text": "酥",
+                        "type": 2
+                    }
+                ],
+                "comoditys": [{
+                    "commodity_id": "47"
+                }]
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495846074351_3122370761.JPG",
+                "material_video": "http://video.szzhangchu.com/caomeimusi4yue6riA.mp4",
+                "process_video": "http://video.szzhangchu.com/caomeimusi4yue6riB.mp4",
+                "dishes_id": 16013,
+                "dishes_name": "美味草莓慕斯",
+                "dishes_desc": "草莓不仅是表面装饰而已，慕斯的夹心里也有满满的草莓哦，配上鲜红的镜面装饰，看起来就食欲满满！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=16013",
+                "like": 0,
+                "tags_info": [{
+                        "id": 235,
+                        "text": "蛋糕",
+                        "type": 2
+                    },
+                    {
+                        "id": 233,
+                        "text": "下午茶",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495628773395_8469868387.jpg",
+                "material_video": "http://video.szzhangchu.com/huangguaningmengbingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/huangguaningmengbingshaB.mp4",
+                "dishes_id": 15854,
+                "dishes_name": "黄瓜柠檬冰沙",
+                "dishes_desc": "黄瓜、柠檬，清香爽口且营养丰富，能防止和消除皮肤色素沉着，具有美白作用。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15854",
+                "like": 0,
+                "tags_info": [{
+                        "id": 292,
+                        "text": "美容养颜",
+                        "type": 2
+                    },
+                    {
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 282,
+                        "text": "祛痘祛斑",
+                        "type": 2
+                    },
+                    {
+                        "id": 287,
+                        "text": "明目",
+                        "type": 2
+                    },
+                    {
+                        "id": 298,
+                        "text": "降低血压",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495778191798_6096470843.JPG",
+                "material_video": "http://video.szzhangchu.com/boluohuluoboguoyinA.mp4",
+                "process_video": "http://video.szzhangchu.com/boluohuluoboguoyinB.mp4",
+                "dishes_id": 15953,
+                "dishes_name": "菠萝胡萝卜果饮",
+                "dishes_desc": "酸甜可口、美容养颜",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15953",
+                "like": 0,
+                "tags_info": [{
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 336,
+                        "text": "榨汁",
+                        "type": 2
+                    },
+                    {
+                        "id": 316,
+                        "text": "酸",
+                        "type": 2
+                    },
+                    {
+                        "id": 252,
+                        "text": "蔬果汁",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463792847931_7429544240.jpg",
+                "material_video": "http://video.szzhangchu.com/yeronghuaxingmianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/yeronghuaxingmianbaoB.mp4",
+                "dishes_id": 15047,
+                "dishes_name": "椰蓉花形面包",
+                "dishes_desc": "将面包做成花儿一样，看着舒心，又有椰蓉的助阵，让美味大大加分。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15047",
+                "like": 0,
+                "tags_info": [{
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495622296460_7150661705.jpg",
+                "material_video": "http://video.szzhangchu.com/shijinsuannainingmengbingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/shijinsuannainingmengbingshaB.mp4",
+                "dishes_id": 15846,
+                "dishes_name": "什锦酸奶柠檬冰沙",
+                "dishes_desc": "这款用柠檬冰块为基础加入酸奶，西米露，哈密瓜和南瓜小圆子，营养丰富，冰爽可口。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15846",
+                "like": 0,
+                "tags_info": [{
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    },
+                    {
+                        "id": 283,
+                        "text": "减肥",
+                        "type": 2
+                    },
+                    {
+                        "id": 291,
+                        "text": "瘦身排毒",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463536849535_8866093282.jpg",
+                "material_video": "http://video.szzhangchu.com/yidalipeigenpisaA.mp4",
+                "process_video": "http://video.szzhangchu.com/yidalipeigenpisaB.mp4",
+                "dishes_id": 14953,
+                "dishes_name": "意大利培根披萨",
+                "dishes_desc": "一道老少咸宜的美味，简简单单在家制作。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14953",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 320,
+                        "text": "咸",
+                        "type": 2
+                    },
+                    {
+                        "id": 342,
+                        "text": "肌肉男",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 341,
+                        "text": "大叔",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495536365497_6937319270.jpg",
+                "material_video": "http://video.szzhangchu.com/baixiangguobingshaA.mp4",
+                "process_video": "http://video.szzhangchu.com/baixiangguobingshaB.mp4",
+                "dishes_id": 15814,
+                "dishes_name": "百香果冰沙",
+                "dishes_desc": "这杯香气浓郁的百香果冰沙，点缀上百香果果汁，整个夏天都凉爽下来！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15814",
+                "like": 0,
+                "tags_info": [{
+                        "id": 282,
+                        "text": "祛痘祛斑",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    },
+                    {
+                        "id": 290,
+                        "text": "提神健脑",
+                        "type": 2
+                    },
+                    {
+                        "id": 280,
+                        "text": "美白",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463630327627_9424716144.jpg",
+                "material_video": "http://video.szzhangchu.com/fushishanA.mp4",
+                "process_video": "http://video.szzhangchu.com/fushishanB.mp4",
+                "dishes_id": 14986,
+                "dishes_name": "富士山",
+                "dishes_desc": "口感类似手撕面包，但是面包里面的组织纤维拉出好长一丝丝的，外面脆里面柔软。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14986",
+                "like": 0,
+                "tags_info": [{
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 342,
+                        "text": "肌肉男",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1463642569739_7688442277.jpg",
+                "material_video": "http://video.szzhangchu.com/jianguoqiaokelinengliangkuaiA.mp4",
+                "process_video": "http://video.szzhangchu.com/jianguoqiaokelinengliangkuaiB.mp4",
+                "dishes_id": 14995,
+                "dishes_name": "坚果巧克力能量块",
+                "dishes_desc": "在疲惫无力的时候，拿起一块能量块，给自己充充电。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14995",
+                "like": 0,
+                "tags_info": [{
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1468371719559_3831584521.jpg",
+                "material_video": "http://video.szzhangchu.com/jingdiandanmaimianbaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/jingdiandanmaimianbaoB.mp4",
+                "dishes_id": 15580,
+                "dishes_name": "经典丹麦面包",
+                "dishes_desc": "虽是小小的面包，却能让你欲罢不能，让你满口酥、香、甜。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15580",
+                "like": 0,
+                "tags_info": [{
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 236,
+                        "text": "面包",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            }
+        ]
+    }
+}

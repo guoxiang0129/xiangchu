@@ -1,0 +1,440 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.2",
+    "timestamp": 1499781261000,
+    "data": {
+        "dish_count": 12,
+        "is_new": 1,
+        "scene_background": "http://img.szzhangchu.com/1499771633683_7992500340.jpg",
+        "scene_desc": "暑期儿童饮食大型攻略",
+        "scene_id": 234,
+        "scene_title": "暑假熊孩子投喂日",
+        "scene_type": 13,
+        "dishes_list": [{
+                "image": "http://img.szzhangchu.com/1439444423097_1415906486.JPG",
+                "material_video": "http://video.szzhangchu.com/caidanhuangguajuanA.mp4",
+                "process_video": "http://video.szzhangchu.com/caidanhuangguajuanB.mp4",
+                "dishes_id": 6471,
+                "dishes_name": "彩蛋黄瓜卷",
+                "dishes_desc": "是时候表现你的心灵手巧了。脆脆的黄瓜加上嫩嫩的鸡蛋，真是美极了。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=6471",
+                "like": 0,
+                "tags_info": [{
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 306,
+                        "text": "益智健脑",
+                        "type": 2
+                    },
+                    {
+                        "id": 270,
+                        "text": "孕早期",
+                        "type": 2
+                    },
+                    {
+                        "id": 149,
+                        "text": "蛋类",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439453939659_5183425777.JPG",
+                "material_video": "http://video.szzhangchu.com/shucaihongdanA.mp4",
+                "process_video": "http://video.szzhangchu.com/shucaihongdanB.mp4",
+                "dishes_id": 6832,
+                "dishes_name": "蔬菜烘蛋",
+                "dishes_desc": "彩椒添色，香菇散香，其余为底，煎出锦绣华丽的盘中餐，赏心悦目，君子必爱。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=6832",
+                "like": 0,
+                "tags_info": [{
+                        "id": 157,
+                        "text": "蛋类",
+                        "type": 2
+                    },
+                    {
+                        "id": 329,
+                        "text": "煎",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 306,
+                        "text": "益智健脑",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439454421176_2941914269.JPG",
+                "material_video": "http://video.szzhangchu.com/sansefantuanA.mp4",
+                "process_video": "http://video.szzhangchu.com/sansefantuanB.mp4",
+                "dishes_id": 6860,
+                "dishes_name": "三色饭团",
+                "dishes_desc": "白花花的米饭，早就厌倦了一身的素白，吵嚷着要换新衣。这还不简单，先来嫩橘，再来鲜绿，最后是暖黄，有味又有颜。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=6860",
+                "like": 0,
+                "tags_info": [{
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 323,
+                        "text": "拌",
+                        "type": 2
+                    },
+                    {
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 222,
+                        "text": "米饭",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495539979713_5648494520.jpg",
+                "material_video": "http://video.szzhangchu.com/xiaozhudechuntianA.mp4",
+                "process_video": "http://video.szzhangchu.com/xiaozhudechuntianB.mp4",
+                "dishes_id": 15821,
+                "dishes_name": "小猪的春天",
+                "dishes_desc": "春意黯然，小猪坐在亭下乘凉，不远处的柳条随风飘飘，真舒服呀。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15821",
+                "like": 0,
+                "tags_info": [{
+                        "id": 251,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 230,
+                        "text": "营养早餐",
+                        "type": 2
+                    },
+                    {
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 378,
+                        "text": "早餐",
+                        "type": 2
+                    },
+                    {
+                        "id": 311,
+                        "text": "清心安神",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495539198257_4696508192.jpg",
+                "material_video": "http://video.szzhangchu.com/qixingpiaochongA.mp4",
+                "process_video": "http://video.szzhangchu.com/qixingpiaochongB.mp4",
+                "dishes_id": 15820,
+                "dishes_name": "七星瓢虫",
+                "dishes_desc": "小朋友快看，太阳底下的草丛里有两只可爱的七星瓢虫。这两位“花大姐”正在辛勤地工作着，为蔬果消灭害虫呢",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15820",
+                "like": 0,
+                "tags_info": [{
+                        "id": 381,
+                        "text": "瘦身餐",
+                        "type": 2
+                    },
+                    {
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 295,
+                        "text": "开胃消食",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495541023989_1880179590.jpg",
+                "material_video": "http://video.szzhangchu.com/xiaomaodiaoyuA.mp4",
+                "process_video": "http://video.szzhangchu.com/xiaomaodiaoyuB.mp4",
+                "dishes_id": 15822,
+                "dishes_name": "小猫钓鱼",
+                "dishes_desc": "炎炎夏日，呆萌的小猫想吃美味又有营养的鱼。不过光想可不行，钓鱼可得行动起来。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15822",
+                "like": 0,
+                "tags_info": [{
+                        "id": 304,
+                        "text": "增高助长",
+                        "type": 2
+                    },
+                    {
+                        "id": 269,
+                        "text": "备孕期",
+                        "type": 2
+                    },
+                    {
+                        "id": 221,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 382,
+                        "text": "美容餐",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439463000777_3084756862.jpg",
+                "material_video": "http://video.szzhangchu.com/hetaobingA.mp4",
+                "process_video": "http://video.szzhangchu.com/hetaobingB.mp4",
+                "dishes_id": 10624,
+                "dishes_name": "核桃饼",
+                "dishes_desc": "核桃健脑益智，儿童发育少不了它。上班族也可以用来当加餐啊，好吃又健康。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=10624",
+                "like": 0,
+                "tags_info": [{
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439461026552_4166494995.JPG",
+                "material_video": "http://video.szzhangchu.com/zhuroubaocaijuanA.mp4",
+                "process_video": "http://video.szzhangchu.com/zhuroubaocaijuanB.mp4",
+                "dishes_id": 7050,
+                "dishes_name": "猪肉包菜卷",
+                "dishes_desc": "别小看这包菜卷，馅料内可不只是有肉哟！馅料里还有酸酸的西红柿和爽甜的洋葱，让你吃了还想吃！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=7050",
+                "like": 0,
+                "tags_info": [{
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 151,
+                        "text": "猪肉",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439453839816_6397991916.JPG",
+                "material_video": "http://video.szzhangchu.com/qingzhenghongshuA.mp4",
+                "process_video": "http://video.szzhangchu.com/qingzhenghongshuB.mp4",
+                "dishes_id": 6825,
+                "dishes_name": "清蒸红薯",
+                "dishes_desc": "红薯一盘，清蒸似红玉，清甜甘美，如此就好，再无需其他。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=6825",
+                "like": 0,
+                "tags_info": [{
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 144,
+                        "text": "蔬菜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439432487843_9941938521.JPG",
+                "material_video": "http://video.szzhangchu.com/qingzhengdoufuwanziA.mp4",
+                "process_video": "http://video.szzhangchu.com/qingzhengdoufuwanziB.mp4",
+                "dishes_id": 3743,
+                "dishes_name": "清蒸豆腐丸子",
+                "dishes_desc": "体验豆腐的另类魅力，用豆腐做成的小丸子，白而圆滚，淋上浓郁的芡汁，清淡朴质。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=3743",
+                "like": 0,
+                "tags_info": [{
+                        "id": 232,
+                        "text": "晚餐",
+                        "type": 2
+                    },
+                    {
+                        "id": 234,
+                        "text": "宵夜",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 384,
+                        "text": "孕妇餐",
+                        "type": 2
+                    },
+                    {
+                        "id": 157,
+                        "text": "蛋类",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439367192413_2568211391.jpg",
+                "material_video": "http://video.szzhangchu.com/xiangchangjiandanbingA.mp4",
+                "process_video": "http://video.szzhangchu.com/xiangchangjiandanbingB.mp4",
+                "dishes_id": 2749,
+                "dishes_name": "香肠煎蛋饼",
+                "dishes_desc": "香肠搭配上鸡蛋，非常的香甜可口，真的是非常的适合给自己的宝贝做的菜！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=2749",
+                "like": 0,
+                "tags_info": [{
+                        "id": 279,
+                        "text": "19~36个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 329,
+                        "text": "煎",
+                        "type": 2
+                    },
+                    {
+                        "id": 320,
+                        "text": "咸",
+                        "type": 2
+                    },
+                    {
+                        "id": 151,
+                        "text": "猪肉",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439367990228_7346339787.jpg",
+                "material_video": "http://video.szzhangchu.com/xiannaiheizhenzhutangwanA.mp4",
+                "process_video": "http://video.szzhangchu.com/xiannaiheizhenzhutangwanB.mp4",
+                "dishes_id": 2928,
+                "dishes_name": "鲜奶黑珍珠汤丸",
+                "dishes_desc": "珍珠奶茶，大家已经熟的不能再熟了。而这次还加上鲜奶，冷冻下来，在热气腾腾的夏日喝上一口，实属绝佳。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=2928",
+                "like": 0,
+                "tags_info": [{
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    },
+                    {
+                        "id": 294,
+                        "text": "保肝护肾",
+                        "type": 2
+                    },
+                    {
+                        "id": 229,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            }
+        ],
+        "share_url": "http://m.izhangchu.com/web/scene/view.html?&scene_id=234",
+        "relates": [{
+                "scene_background": "http://img.szzhangchu.com/1451558382969_6667352937.jpg",
+                "scene_id": 95,
+                "scene_title": "最High元旦Party",
+                "dishes_count": 8
+            },
+            {
+                "scene_background": "http://img.szzhangchu.com/1451353286276_7784642902.jpg",
+                "scene_id": 93,
+                "scene_title": "懒人的美味",
+                "dishes_count": 9
+            },
+            {
+                "scene_background": "http://img.szzhangchu.com/1473324929501_3173764153.jpg",
+                "scene_id": 188,
+                "scene_title": "苹果盛宴",
+                "dishes_count": 16
+            }
+        ]
+    }
+}

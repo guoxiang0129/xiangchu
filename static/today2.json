@@ -1,0 +1,17 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1499780812000,
+    "data": {
+        "wx_circle": "每天献上最新鲜的美食！",
+        "wx_friend_title": "今日新品",
+        "wx_friend": "每天献上最新鲜的美食！",
+        "zone_friend_title": "今日新品",
+        "zone_friend": "每天献上最新鲜的美食！",
+        "sina_title": "今日新品",
+        "sina": "每天献上最新鲜的美食！",
+        "link": "http://m.izhangchu.com/scene/view.html?&scene_id=51",
+        "imgUrl": "http://img.szzhangchu.com/1458631599116_4580632762.jpg"
+    }
+}

@@ -1,0 +1,195 @@
+<template>
+    <div class="shopcitys-page">
+        <div class="header">
+            <div class="header-inner">
+                <div class="left">
+                    <router-link to="/mine">
+                        <i class="back1"></i>
+                    </router-link>
+                </div>
+                <div class="mid">
+                    <div class="center">红包兑换</div>
+                </div>
+            </div>
+        </div>
+        <div class="main-body">
+            <div class="nav-header nav-fixed">
+                <div class="nar-header-wrap">
+                    <ul class="nav-wrap">
+                        <li v-for="(item,index) in redbaglists" :key="item" :class="{activerdg:redbagIndex==index}" @click="getredbagIndex(index)">
+                            <router-link to="">
+                                <!-- {{redbaglists[index].name}} -->
+                                {{item.name}}
+                            </router-link>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="j-page" :class="{activerdg:redbagIndex==index1}">
+                
+            </div>
+            <div class="j-page" :class="{activerdg:redbagIndex==index2}">
+                <div class="page-record-list">
+                    <ul class="exchange-history-wrap">
+                        无兑换记录，快去兑换哦
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+export default {
+    data() {
+        return {
+            redbaglists: [
+                { name: '礼品兑换' },
+                { name: '我的订单' }
+            ],
+            redbagIndex: 0,
+            index1:0,
+            index2:1
+        }
+    },
+    methods: {
+        getredbagIndex: function (index) {
+            this.redbagIndex = index;
+        }
+    },
+    created() {
+        // this.getredbagIndex();
+    }
+}
+</script>
+<style scoped>
+body {
+    background-color: #fff;
+    height: 100%;
+}
+.shopcitys-page {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: #5d5d5d;
+    background-color: #fff;
+}
+
+.header {
+    background-color: #fff;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.mid {
+    margin: 0rem auto;
+    height: 2.2rem;
+    width: 8.6rem;
+    text-align: center;
+}
+
+.left .back1 {
+    background-image: url(../../assets/food-left.png);
+    margin-right: 0.09rem;
+    vertical-align: top;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 0.45rem;
+    background-size: cover;
+    display: inline-block;
+}
+
+.main-body {
+    position: relative;
+}
+
+.nav-fixed {
+    position: absolute;
+    top: 2.2rem;
+    left: 0;
+    z-index: 1;
+}
+
+.nav-header {
+    width: 100%;
+    text-align: center;
+    margin: 0rem auto;
+    height: 2.2rem;
+}
+
+.nar-header-wrap {
+    height: 2.2rem;
+    min-width: 320px;
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.nav-wrap {
+    display: inline-block;
+    text-align: center;
+    margin: 0.5rem 0 0;
+}
+
+.nav-header li {
+    color: #999999;
+    border-bottom: none;
+    width: auto;
+    padding: 0 2rem;
+    height: 1.25rem;
+    line-height: 1.25rem;
+    margin: 0;
+    float: left;
+}
+
+.nav-header li:first-child {
+    border-right: 1px solid #e3e3e3;
+}
+
+.nav-header a {
+    color: #999999;
+    font-size: .7rem;
+    height: 1.4rem;
+    line-height: 1.25rem;
+    display: block;
+}
+
+.nav-header .activerdg a {
+    border-bottom: 0.1rem solid #ff8f5c;
+    color: #50493e;
+}
+.j-page{
+    width: 100%;
+    display: none;
+    padding: 0.5rem 0.2rem;
+    background-color: #fff;
+    position: relative;
+    padding-bottom: 0.1rem;
+    top: 4.3rem;
+}
+.activerdg{
+    display: inline-block;
+}
+.exchange-history-wrap {
+    font-size: 0.7rem;
+    text-align: center;
+    color: #999999;
+}
+</style>

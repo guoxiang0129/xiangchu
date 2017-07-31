@@ -1,0 +1,26 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1499779326000,
+    "data": {
+        "albums": [{
+            "series_id": "128",
+            "album": "爱女生杂志",
+            "album_logo": "http://img.szzhangchu.com/1490944525470_4682098124.png",
+            "charge_count": 0
+        }],
+        "data": [{
+            "series_id": 128,
+            "series_name": "#爱女生杂志#超强存在感土色唇！",
+            "image": "http://img.szzhangchu.com/1490944525315_6087385590.jpg",
+            "episode_sum": 40,
+            "charge_count": 0,
+            "tag": "",
+            "album": "爱女生杂志",
+            "album_logo": "http://img.szzhangchu.com/1490944525470_4682098124.png",
+            "episode": 11,
+            "play": 44493
+        }]
+    }
+}

@@ -1,0 +1,396 @@
+<template>
+    <div class="scene-page">
+        <div class="header-title">
+            <header class="header">
+                <div class="header-wrap">
+                    <ul class="cheadTopbar clearfix">
+                        <li>
+                            <router-link to="/" class="ui-link">首页</router-link>
+                        </li>
+                        <li>
+                            <router-link to="/">></router-link>
+                        </li>
+                        <li>
+                            <router-link to="/" class="ui-link">场景</router-link>
+                        </li>
+                    </ul>
+                    <div class="right menu-wrap">
+                        <span class="header-ico ui-link">
+                            <i class="ico"></i>
+                        </span>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <!--<div class="header-gap"></div>-->
+        <div class="main-page">
+            <div class="page-scene-list ">
+                <ul class="clearfix">
+                    <li>
+                        <router-link to="/scene/today">
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link to="/scene/night">
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link to="/scene/happy">
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link to="/scene/mango">
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </router-link>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <img src="../assets/xfhp.jpg" class="wimg">
+                            <div class="sub-text">
+                                <span class="sub-title">#被芒果包围的甜蜜夏日#</span>
+                                <span class="sub-nub">10道菜</span>
+                            </div>
+                            <div class="bg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+export default {
+
+}
+</script>
+<style>
+.scene-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    /*background-color: pink;*/
+    padding-bottom: 0.1rem;
+    font-size: 100%;
+}
+
+.header {
+    background-color: #fff;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.header-wrap {
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 0.8rem;
+    position: relative;
+    height: 2.2rem;
+}
+
+.header-wrap .cheadTopbar {
+    color: #333;
+    padding-left: 0.5rem;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    width: 85%;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.header-wrap .cheadTopbar li {
+    float: left;
+    padding-right: 0.3rem;
+    max-width: 45%;
+    height: 2.2rem;
+}
+
+.header-wrap .cheadTopbar li a {
+    color: #333;
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.header-wrap .right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.header-ico {
+    display: block;
+    height: 2.2rem;
+    line-height: 2.1rem;
+    width: 1.6rem;
+    text-align: center;
+}
+
+.header-ico .ico {
+    vertical-align: top;
+    background: url(../assets/menu.png);
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 0.45rem;
+    background-size: cover;
+    display: inline-block
+}
+.main-page {
+    padding: 0.4rem 0;
+    min-height: 10rem;
+}
+.page-scene-list {
+    background-color: #fff;
+    padding-bottom: 0.3rem;
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.page-scene-list li {
+    height: 7rem;
+    margin-bottom: 0.075rem;
+    position: relative;
+    text-align: center;
+    margin-top: 0;
+    overflow: hidden;
+    width: 33.333333333%;
+    float: left;
+}
+.page-scene-list li:nth-child(3n+1) {
+    border-right: 0.05rem solid #fff;
+}
+.page-scene-list li:nth-child(3n-1) {
+    border-right: 0.025rem solid #fff;
+    border-left: 0.025rem solid #fff;
+}
+.page-scene-list li:nth-child(3n+3) {
+    border-left: 0.05rem solid #fff;
+}
+.page-scene-list img {
+    width: 100%;
+    height: 100%;
+    font-size: 0px;
+    display: block;
+    margin: 0 auto;
+}
+.page-scene-list .sub-text {
+    line-height: 0.75rem;
+    width: 100%;
+    z-index: 2;
+    position: absolute;
+    bottom: 0.3rem;
+    text-align: center;
+    color: #fff;
+}
+.sub-text span {
+    display: block;
+}
+.sub-title {
+    font-size: 0.7rem;
+    margin-bottom: 0.2rem;
+}
+.sub-nub {
+    font-size: 0.6rem;
+}
+.page-scene-list li .bg {
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    bottom: 0;
+    z-index: 1;
+}
+
+
+
+/*.header-gap {
+    height: 2.2rem;
+    background-color: yellow;
+}*/
+</style>

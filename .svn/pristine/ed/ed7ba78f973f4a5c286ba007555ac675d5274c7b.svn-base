@@ -1,0 +1,106 @@
+<template>
+    <div class="address-page">
+        <div class="header">
+            <div class="header-inner">
+                <div class="left">
+                    <router-link to="/mine">
+                        <i class="back1"></i>
+                    </router-link>
+                </div>
+                <div class="mid">
+                    <div class="center">收货地址</div>
+                </div>
+            </div>
+        </div>
+        <div class="submit-wrap">
+            <div class="user-submit">
+                <input class="submit-btn" type="button" value="添加新地址">
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+export default {
+
+}
+</script>
+<style>
+.address-page {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: #5d5d5d;
+    background-color: #f8f8f8;
+}
+
+.header {
+    background-color: #fff;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.mid {
+    margin: 0rem auto;
+    height: 2.2rem;
+    width: 8.6rem;
+    text-align: center;
+}
+
+.left .back1 {
+    background-image: url(../../assets/food-left.png);
+    margin-right: 0.09rem;
+    vertical-align: top;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 0.45rem;
+    background-size: cover;
+    display: inline-block;
+}
+.submit-wrap {
+    height: 3.2rem;
+    line-height: 3.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 2.7rem;
+    z-index: 10000;
+}
+.user-submit {
+    border-top: 1px solid #ececec;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    padding: 0 2rem;
+    background-color: #fff;
+    bottom: 0;
+    left: 0;
+}
+.submit-btn {
+    font-size: 0.7rem;
+    font-family: "microsoft YaHei", sans-serif;
+    border: 1px solid #ff8f5c;
+    width: 100%;
+    height: 1.6rem;
+    line-height: 1.5rem;
+    color: #ff8f5c;
+    background: #fff;
+    -webkit-border-radius: 0.2rem;
+    border-radius: 0.2rem;
+    -webkit-appearance: none;
+}
+</style>

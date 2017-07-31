@@ -1,0 +1,434 @@
+<template>
+    <div class="home-page">
+        <!--搜索栏-->
+        <div class="home-header">
+            <div class="home-header-left">
+                <img class="home-header-img" src="http://pub.szzhangchu.com/web/v4.2/images/logo-white.png">
+            </div>
+            <div class="home-header-search">
+                <div>
+                    <div class="placeholder">
+                         <i class="ico-search"></i>
+                        请输入菜名或者食材搜索
+                    </div>
+                </div>
+            </div>
+            <div class="home-header-right">
+                <img class="home-header-img" src="http://img.szzhangchu.com/1445429526387_9171386134.jpg@48h_48w_1e_1c.jpg">
+            </div>
+        </div>
+        <div class="home-header-light"></div>
+        <!--顶部导航-->
+        <ul class="home-nav home-nav-one">
+            <router-link tag="li" to="/" class="nav-item">
+            首页
+            </router-link>
+            <router-link tag="li" to="/food" class="nav-item">
+            美食
+            </router-link>
+             <router-link tag="li" to="/food" class="nav-item">
+            健康
+            </router-link>
+            <router-link tag="li" to="/cook" class="nav-item">
+            食材
+            </router-link>
+            <router-link tag="li" to="/cook" class="nav-item">
+            万道佳肴
+            </router-link>
+         </ul>
+        <ul class="home-nav home-nav-two">
+            <router-link tag="li" to="/topic" class="nav-item">
+            专题
+            </router-link>
+            <router-link tag="li" to="/scene" class="nav-item">
+            场景
+            </router-link>
+            <router-link tag="li" to="/community" class="nav-item">
+            社区
+            </router-link>
+            <router-link tag="li" to="/activity" class="nav-item">
+            活动
+            </router-link>
+            <router-link tag="li" to="/newuser" class="nav-item">
+            新手入门
+            </router-link>
+        </ul>
+        <!--轮播-->
+        <div class="home-banner">
+            <img class="banner-img" src="http://img.szzhangchu.com/1499410906001_6357292492.jpg@640w_215h_1e_1c.jpg">
+        </div>
+        <!--三分钟小炒-->
+        <ul class="list-type-three">
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+            <li class="list-type-three-item">
+                <router-link to="/food" class="list-type-three-A">
+                    <img src="http://pub.szzhangchu.com/web/v4.2/images/ico/xiaochao-ico.png">
+                    <span>三分钟小炒</span>
+                </router-link>
+            </li>
+        </ul>
+        <!--万道佳肴 菜单顶部链接-->
+        <router-link to="/cook" class="list-bottom-link">
+            <div class="list-title">
+                <p>
+                    万道佳肴
+                    <i class="ico-more"></i>
+                </p>
+            </div>
+        </router-link>
+        <!--主体内容 今日新品-->
+        <div class="home-content">
+            <!--今日新品-->
+            <div class="home-content-type1 hc">
+                <div>
+                    <router-link to="/" class="home-type1-title">
+                        <div class="list-title">
+                            <p>
+                                今日新品
+                                <i class="ico-more"></i>
+                            </p>
+                        </div>
+                    </router-link>
+                    <ul class="home-type1-cont">
+                        <li class="home-type1-cont-item">
+                            <div class="home-type1-item-img">
+                                <img src="http://img.szzhangchu.com/1463736763389_8273201474.jpg@180h_211w_1e_1c.jpg">
+                                <i class="ico-play"></i>
+                            </div>
+                            <div class="item-text">
+                                <p class="title">提子奶酥</p>
+                                <p class="sub-title">糖粉的甜，加上提子的酸，…</p>
+                            </div>
+                            <div></div>
+                        </li>
+                        <li class="home-type1-cont-item">
+                            <div class="home-type1-item-img">
+                                <img src="http://img.szzhangchu.com/1463736763389_8273201474.jpg@180h_211w_1e_1c.jpg">
+                                <i class="ico-play"></i>
+                            </div>
+                            <div class="item-text">
+                                <p class="title">提子奶酥</p>
+                                <p class="sub-title">糖粉的甜，加上提子的酸，…</p>
+                            </div>
+                            <div></div>
+                        </li>
+                        <li class="home-type1-cont-item">
+                            <div class="home-type1-item-img">
+                                <img src="http://img.szzhangchu.com/1463736763389_8273201474.jpg@180h_211w_1e_1c.jpg">
+                                <i class="ico-play"></i>
+                            </div>
+                            <div class="item-text">
+                                <p class="title">提子奶酥</p>
+                                <p class="sub-title">糖粉的甜，加上提子的酸，…</p>
+                            </div>
+                            <div></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!--夜宵心事-->
+            <div class="home-content-type2 hc">
+                <div>
+                    <router-link to="/" class="home-type1-title">
+                        <div class="list-title">
+                            <p>
+                                早餐日记
+                                <i class="ico-more"></i>
+                            </p>
+                        </div>
+                    </router-link>
+                </div>
+            </div>
+            <!--幸福烘焙-->
+            <div class="home-content-type2 hc"></div>
+            <!--被芒果保卫的甜蜜夏日-->
+            <div class="home-content-type2 hc"></div>
+            <!--全部场景-->
+            <div class="type-all"></div>
+            <!--精选作品-->
+            <div class="home-content-type3 hc"></div>
+            <!--美食专题-->
+            <div class="home-content-type4 hc"></div>
+        </div>
+    </div>
+</template>
+<script>
+    export default {
+
+    }
+</script>
+<style>
+    .home-page {
+        width: 100%;
+        background-color: #fff;
+    }
+    /*顶部搜索*/
+    
+    .home-header {
+        height: 2.2rem;
+        line-height: 2.2rem;
+        background-color: #ff7836;
+        width: 100%;
+        position: fixed;
+        border-bottom: 1px solid #f2f2f2;
+    }
+    /*顶部遮罩*/
+    
+    .home-header-light {
+        height: 2.2rem;
+    }
+    
+    .home-header-left {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 2.2rem;
+        line-height: 2.2rem;
+        width: 2.2rem;
+    }
+    
+    .home-header-img {
+        height: 1.2rem;
+        line-height: 1.2rem;
+        width: 1.2rem;
+        margin: 0.5rem;
+    }
+    
+    .home-header-search {
+        padding: 0.4rem 0rem;
+        margin: 0 2.2rem;
+        background-color: transparent;
+        text-align: center;
+        color: #fff;
+    }
+    
+    .home-header-search>div {
+        height: 1.4rem;
+        background-color: #fff;
+        line-height: 1.4rem;
+        border-radius: .1rem;
+        vertical-align: top;
+        text-align: left;
+        position: relative;
+    }
+    
+    .placeholder {
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        text-align: center;
+        font-size: 0.6rem;
+        line-height: 1.55rem;
+        color: #828282;
+        vertical-align: top;
+        height: 1.4rem;
+        z-index: 2;
+    }
+    
+    .placeholder .ico-search {
+        margin-top: 0.1rem;
+        margin-right: 0.5rem;
+        vertical-align: top;
+        background-image: url(../assets/ico-search.png);
+        width: 1.2rem;
+        height: 1.2rem;
+        background-size: cover;
+        display: inline-block;
+    }
+    
+    .home-header-right {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 2.2rem;
+        line-height: 2.2rem;
+        width: 2.2rem;
+    }
+    /*顶部导航*/
+    
+    .home-nav {
+        width: 100%;
+        height: 1.8rem;
+        line-height: 1.5rem;
+        background-color: #fff;
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0 .6rem;
+    }
+    
+    .home-nav-one {
+        padding-top: .3rem;
+    }
+    
+    .home-nav-two {
+        padding-bottom: .3rem;
+    }
+    /*轮播*/
+    
+    .home-banner {
+        width: 100%;
+        min-height: 5.375rem;
+    }
+    
+    .home-banner img {
+        width: 100%;
+    }
+    /*三分钟小炒*/
+    
+    .list-type-three {
+        padding: 0.6rem 0;
+        border-bottom: 1px solid #f2f2f2;
+        overflow: hidden;
+        background-color: #fff;
+    }
+    
+    .list-type-three-item {
+        margin: .3rem 0;
+        float: left;
+        width: 33.333333333%;
+        text-align: center;
+    }
+    
+    .list-type-three-A {
+        font-size: .7rem;
+        color: #464646;
+        display: block;
+    }
+    
+    .list-type-three-A>img {
+        width: 2.2rem;
+        height: 2.2rem;
+    }
+    
+    .list-type-three-A>span {
+        margin-top: 0.2rem;
+        display: block;
+    }
+    /*万道佳肴链接*/
+    
+    .list-title {
+        padding: 0.5rem 0;
+        height: 1.75rem;
+        line-height: 1.75rem;
+    }
+    
+    .list-title>p {
+        text-align: center;
+        font-size: .75rem;
+        color: #464646;
+        height: .75rem;
+        line-height: .75rem;
+    }
+    
+    .ico-more {
+        margin-left: 0.85rem;
+        margin-top: 0;
+        width: .625rem;
+        height: .625rem;
+        vertical-align: middle;
+        background: url(../assets/ico-more.png) no-repeat;
+        background-size: cover;
+        display: inline-block;
+    }
+    /*今日新品*/
+    
+    .home-content {
+        min-height: 20rem;
+    }
+    
+    .hc {
+        background-color: #fff;
+        margin-top: .4rem;
+        padding: 0.5rem 0;
+        box-shadow: 0px 0px 1px #ccc;
+    }
+    
+    .home-type1-cont {
+        overflow: hidden;
+    }
+    
+    .home-type1-cont-item {
+        float: left;
+        width: 33.3333%;
+    }
+    
+    .home-type1-item-img {
+        position: relative;
+    }
+    
+    .home-type1-item-img>img {
+        width: 100%;
+        height: 4.5rem;
+    }
+    
+    .home-type1-item-img>.ico-play {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin-top: -0.6rem;
+        margin-left: -0.6rem;
+        width: 1.2rem;
+        height: 1.2rem;
+        background-image: url(../assets/ico-play.png);
+        background-size: cover;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    /*图片底部的文本*/
+    
+    .item-text {
+        text-align: center;
+        font-size: 0.6rem;
+        color: #5d5d5d;
+    }
+    
+    .item-text .title {
+        height: 1.2rem;
+        color: #464646;
+        padding: 0.1rem 0.4rem;
+        font-size: 0.7rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    
+    .item-text .sub-title {
+        overflow: hidden;
+        height: 1.6rem;
+        padding: 0 0.3rem;
+        color: #a0a0a0;
+        line-height: 0.8rem;
+    }
+</style>

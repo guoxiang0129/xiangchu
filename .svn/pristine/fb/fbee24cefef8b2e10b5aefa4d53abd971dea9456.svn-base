@@ -1,0 +1,155 @@
+<template>
+    <div class="topic-page">
+        <alllist>
+            <!--插进对应的顶部槽-->
+            <div slot="header">
+                <!--顶部公用组件-->
+                <comheader :pageName='pageName'></comheader>
+            </div>
+            <!--主体-->
+            <div class="topic-cont">
+                <ul class="topic-cont-list">
+                    <li class="topic-cont-item">
+                        <div class="topic-item-div">
+                            <a>
+                                <img src="http://img.szzhangchu.com/1499341844720_2299519182.jpg">
+                                <p class="title">小暑，被芒果包围的甜蜜夏日</p>
+                                <p class="sub-title">倏忽温风至，因循小暑来</p>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="topic-cont-item">
+                        <div class="topic-item-div">
+                            <a>
+                                <img src="http://img.szzhangchu.com/1499341844720_2299519182.jpg">
+                                <p class="title">小暑，被芒果包围的甜蜜夏日</p>
+                                <p class="sub-title">倏忽温风至，因循小暑来</p>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="topic-cont-item">
+                        <div class="topic-item-div">
+                            <a>
+                                <img src="http://img.szzhangchu.com/1499341844720_2299519182.jpg">
+                                <p class="title">小暑，被芒果包围的甜蜜夏日</p>
+                                <p class="sub-title">倏忽温风至，因循小暑来</p>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="topic-cont-item">
+                        <div class="topic-item-div">
+                            <a>
+                                <img src="http://img.szzhangchu.com/1499341844720_2299519182.jpg">
+                                <p class="title">小暑，被芒果包围的甜蜜夏日</p>
+                                <p class="sub-title">倏忽温风至，因循小暑来</p>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!--加载更多-->
+            <div id="load-more" class="load">
+                还剩下
+                <span class="num">154</span>
+                专题
+            </div>
+        </alllist>    
+    </div>
+</template>
+<script>
+    import comheader from '../components/Comheader.vue'
+    // 导入公共模块
+    import alllist from '../components/Alllist'
+    export default {
+        props:['page'],
+        data () {
+            return {
+                imglists:[],
+                pageName:'专题'
+            }
+        },
+        methods: {
+            getData: function() {
+                var $this = this;
+                this.$http.get('../../static/home.json').then(function(res) {
+                    $this.imglists = res.data.data.bannerimgs;
+                    console.log($this.imglists[1])
+                })
+            }
+        },
+        created () {
+            this.getData();
+        },
+        components: {
+            comheader,
+            alllist
+        }
+    }
+</script>
+<style scoped>
+    .topic-page {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 11;
+        background-color: #eee;
+    }
+    
+    .topic-cont {
+        width: 100%;
+    }
+    /*.topic-cont-list{
+
+    }*/
+    
+    .topic-cont-item {
+        background-color: #fff;
+        margin-top: .4rem;
+        padding: 0.5rem .5rem;
+        box-shadow: 0px 0px 1px #ccc;
+    }
+    
+    .topic-item-div {
+        margin-top: 0rem;
+        margin-bottom: .3rem;
+        text-align: left;
+    }
+    
+    .topic-item-div img {
+        max-width: 100%;
+        font-size: 0px;
+        display: block;
+        margin: 0 auto;
+        border-radius: 4px;
+    }
+    
+    .topic-item-div .title {
+        margin-top: .2rem;
+        margin-bottom: .2rem;
+        color: #515151;
+        font-size: 0.8rem;
+    }
+    
+    .topic-item-div .sub-title {
+        color: #a3a3a3;
+        font-size: 0.6rem;
+    }
+    
+    .load {
+        margin: .5rem;
+        padding: 0 .6rem;
+        text-align: center;
+        background: #ddd;
+        color: #666;
+        font-size: .8rem;
+        height: 1.6rem;
+        line-height: 1.6rem;
+        border-radius: .8rem;
+    }
+    
+    .footer-gap {
+        height: 2.1rem;
+    }
+</style>

@@ -1,0 +1,1450 @@
+{
+    "data": {
+        "albums": [{
+                "series_id": "194",
+                "album": "小得健康",
+                "album_logo": "http://img.szzhangchu.com/1499851970521_5280285707.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "191",
+                "album": "独道",
+                "album_logo": "http://img.szzhangchu.com/1495705520215_2472698151.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "193",
+                "album": "玩疯了",
+                "album_logo": "http://img.szzhangchu.com/1498469896947_3676365090.JPG",
+                "charge_count": 0
+            },
+            {
+                "series_id": "189",
+                "album": "女子力科学社",
+                "album_logo": "http://img.szzhangchu.com/1494570990213_1473158789.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "192",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497260936399_5043664646.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "190",
+                "album": "匠心手作",
+                "album_logo": "http://img.szzhangchu.com/1495076674179_4000531138.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "182",
+                "album": "去过",
+                "album_logo": "http://img.szzhangchu.com/1491808226018_3754036436.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "188",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493804646180_7735494160.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "156",
+                "album": "初次见",
+                "album_logo": "http://img.szzhangchu.com/1480042722359_2678611310.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "168",
+                "album": "玩疯了之创玩星球",
+                "album_logo": "http://img.szzhangchu.com/1481882123240_6019379959.JPG",
+                "charge_count": 0
+            },
+            {
+                "series_id": "184",
+                "album": "狗窝视频",
+                "album_logo": "http://img.szzhangchu.com/1492853918068_5453784173.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "187",
+                "album": "一卉视频",
+                "album_logo": "http://img.szzhangchu.com/1493803743815_1542726519.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "179",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488273067433_8144077220.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "186",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493703750989_2483321781.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "185",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497954311033_1059797842.JPG",
+                "charge_count": 0
+            },
+            {
+                "series_id": "153",
+                "album": "全民宝贝计划",
+                "album_logo": "http://img.szzhangchu.com/1479283915608_5677977419.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "183",
+                "album": "与女儿的日常",
+                "album_logo": "http://img.szzhangchu.com/1491809427807_5003177540.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "181",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1491028486439_4512520638.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "177",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488264574630_7257347270.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "178",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488265533262_9407328303.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "151",
+                "album": "优活台湾",
+                "album_logo": "http://img.szzhangchu.com/1477995794355_4353753378.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "180",
+                "album": "环保小精灵",
+                "album_logo": "http://img.szzhangchu.com/1490346419802_9940629774.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "176",
+                "album": "李哲教你学解剖",
+                "album_logo": "http://img.szzhangchu.com/1489390784781_2896157974.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "175",
+                "album": "瑜伽小队长",
+                "album_logo": "http://img.szzhangchu.com/1490598247147_1380815658.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "174",
+                "album": "二更",
+                "album_logo": "http://img.szzhangchu.com/1487583873940_8957903711.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "172",
+                "album": "健人贱语",
+                "album_logo": "http://img.szzhangchu.com/1487211609081_9313674815.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "167",
+                "album": "科技喵喵喵",
+                "album_logo": "http://img.szzhangchu.com/1481795330002_3533207870.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "113",
+                "album": "奇育记",
+                "album_logo": "http://img.szzhangchu.com/1474964721029_6404622807.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "166",
+                "album": "赛普基础实践教学",
+                "album_logo": "http://img.szzhangchu.com/1487584857392_2705247734.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "165",
+                "album": "焦糖猫的99个育言",
+                "album_logo": "http://img.szzhangchu.com/1481697573278_2188903541.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "164",
+                "album": "爱啃俱乐部",
+                "album_logo": "http://img.szzhangchu.com/1481105852950_6146474586.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "163",
+                "album": "电影恋爱学",
+                "album_logo": "http://img.szzhangchu.com/1481009800431_8789443184.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "112",
+                "album": "十月呵护",
+                "album_logo": "http://img.szzhangchu.com/1474884793711_6789632619.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "162",
+                "album": "情趣中国",
+                "album_logo": "http://img.szzhangchu.com/1480926210728_1387175302.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "161",
+                "album": "橙宝互动",
+                "album_logo": "http://img.szzhangchu.com/1480495528272_8917277190.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "171",
+                "album": "留学说",
+                "album_logo": "http://img.szzhangchu.com/1484117808290_6877849866.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "160",
+                "album": "Goingworld",
+                "album_logo": "http://img.szzhangchu.com/1484376787414_4167821929.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "159",
+                "album": "别对妈说谎",
+                "album_logo": "http://img.szzhangchu.com/1480414761400_2142901805.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "157",
+                "album": "babystep",
+                "album_logo": "http://img.szzhangchu.com/1489395337050_3867880110.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "155",
+                "album": "明白了妈",
+                "album_logo": "http://img.szzhangchu.com/1480039553577_7039267201.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "154",
+                "album": "报告妈妈",
+                "album_logo": "http://img.szzhangchu.com/1479378053340_1292361506.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "117",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1475999077524_9796147937.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "152",
+                "album": "牛男",
+                "album_logo": "http://img.szzhangchu.com/1478767648307_7775180108.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "121",
+                "album": "赛普功能性教学",
+                "album_logo": "http://img.szzhangchu.com/1481533902930_8743063683.gif",
+                "charge_count": 0
+            },
+            {
+                "series_id": "150",
+                "album": "陪孩玩",
+                "album_logo": "http://img.szzhangchu.com/1480042533024_3348511068.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "109",
+                "album": "太极天王陈斌",
+                "album_logo": "http://img.szzhangchu.com/1476160947490_8123812600.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "149",
+                "album": "酷炫跆拳道",
+                "album_logo": "http://img.szzhangchu.com/1476781642089_5707274429.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "148",
+                "album": "百合伽人",
+                "album_logo": "http://img.szzhangchu.com/1476779044409_8298663310.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "147",
+                "album": "中国茶道",
+                "album_logo": "http://img.szzhangchu.com/1476777469541_2826280192.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "146",
+                "album": "孕妈瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476777042588_5959941247.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "145",
+                "album": "更年瑜伽生活馆",
+                "album_logo": "http://img.szzhangchu.com/1476785749290_4267602535.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "144",
+                "album": "瑜伽减肚腩",
+                "album_logo": "http://img.szzhangchu.com/1476775794621_3878469740.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "143",
+                "album": "气质瑜伽女神",
+                "album_logo": "http://img.szzhangchu.com/1476780937958_7283425666.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "142",
+                "album": "网球从0学",
+                "album_logo": "http://img.szzhangchu.com/1476775006470_1709544244.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "141",
+                "album": "双节棍进阶宝典",
+                "album_logo": "http://img.szzhangchu.com/1476774425809_8704794563.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "129",
+                "album": "明星私教型男班",
+                "album_logo": "http://img.szzhangchu.com/1476759552739_8107187735.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "127",
+                "album": "瑜伽入门学堂",
+                "album_logo": "http://img.szzhangchu.com/1476758510449_7703023346.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "126",
+                "album": "家有瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476758067540_3605843810.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "125",
+                "album": "太极少帅陈斌",
+                "album_logo": "http://img.szzhangchu.com/1476757115668_9923954336.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "124",
+                "album": "office瑜伽时光",
+                "album_logo": "http://img.szzhangchu.com/1476756529106_6876009785.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "120",
+                "album": "法式孕妇按摩",
+                "album_logo": "http://img.szzhangchu.com/1476434584902_1645799670.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "119",
+                "album": "中国瑜伽行业联盟",
+                "album_logo": "http://img.szzhangchu.com/1483088189080_9520875233.png",
+                "charge_count": 0
+            },
+            {
+                "series_id": "118",
+                "album": "速瘦7天瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476426214278_4936564400.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "116",
+                "album": "4周瑜伽减肥营",
+                "album_logo": "http://img.szzhangchu.com/1476785866548_9683560870.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "114",
+                "album": "跟名师学瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476788158445_5659882824.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "110",
+                "album": "瑜伽瘦身天后",
+                "album_logo": "http://img.szzhangchu.com/1476157691614_7997588751.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "108",
+                "album": "瑜伽必修经典体位法208式",
+                "album_logo": "http://img.szzhangchu.com/1476157629944_1387025603.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "105",
+                "album": "男神·瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476161017210_8340079345.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "104",
+                "album": "陈氏太极养生功",
+                "album_logo": "http://img.szzhangchu.com/1476157551556_8893562193.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "103",
+                "album": "瑜伽玉女丹丹",
+                "album_logo": "http://img.szzhangchu.com/1476786868045_5311830314.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "102",
+                "album": "母婴护理天后",
+                "album_logo": "http://img.szzhangchu.com/1477271653692_2634272644.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "140",
+                "album": "神武双节棍",
+                "album_logo": "http://img.szzhangchu.com/1476773376216_2156628442.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "138",
+                "album": "瘦身女王",
+                "album_logo": "http://img.szzhangchu.com/1476772169785_7019534278.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "137",
+                "album": "汀娜的巾彩生活",
+                "album_logo": "http://img.szzhangchu.com/1476838036324_4163024257.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "136",
+                "album": "零压力有氧瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476770705655_6929183330.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "133",
+                "album": "跆拳道进阶宝典",
+                "album_logo": "http://img.szzhangchu.com/1476762940238_3154708463.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "132",
+                "album": "青少年跆拳道馆",
+                "album_logo": "http://img.szzhangchu.com/1476762361349_7482491443.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "131",
+                "album": "男子哑铃班",
+                "album_logo": "http://img.szzhangchu.com/1476761250779_2420242300.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "130",
+                "album": "母乳喂养",
+                "album_logo": "http://img.szzhangchu.com/1476760219003_8327813188.jpg",
+                "charge_count": 0
+            },
+            {
+                "series_id": "128",
+                "album": "美容伽人",
+                "album_logo": "http://img.szzhangchu.com/1476759054365_3151092295.jpg",
+                "charge_count": 0
+            }
+        ],
+        "data": [{
+                "series_id": 194,
+                "series_name": "#小得健康#传说中的“空调病”，到底要如何应对",
+                "tag": "",
+                "episode": 2,
+                "image": "http://img.szzhangchu.com/1499941056563_5619591330.jpg",
+                "album": "小得健康",
+                "album_logo": "http://img.szzhangchu.com/1499851970521_5280285707.png",
+                "episode_sum": 40,
+                "play": 7759,
+                "charge_count": 0
+            },
+            {
+                "series_id": 191,
+                "series_name": "#独道#养生果酱的秘密",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1496902585226_6118765324.jpg",
+                "album": "独道",
+                "album_logo": "http://img.szzhangchu.com/1495705520215_2472698151.png",
+                "episode_sum": 40,
+                "play": 131302,
+                "charge_count": 0
+            },
+            {
+                "series_id": 193,
+                "series_name": "#玩疯了#夏日DIY冰激凌",
+                "tag": "",
+                "episode": 19,
+                "image": "http://img.szzhangchu.com/1499412997870_5878933603.jpg",
+                "album": "玩疯了",
+                "album_logo": "http://img.szzhangchu.com/1498469896947_3676365090.JPG",
+                "episode_sum": 50,
+                "play": 71881,
+                "charge_count": 0
+            },
+            {
+                "series_id": 189,
+                "series_name": "#女子力科学社#这种最被嫌弃的避孕方法，居然是最靠谱的",
+                "tag": "",
+                "episode": 37,
+                "image": "http://img.szzhangchu.com/1497955330846_2383327771.jpg",
+                "album": "女子力科学社",
+                "album_logo": "http://img.szzhangchu.com/1494570990213_1473158789.png",
+                "episode_sum": 60,
+                "play": 147601,
+                "charge_count": 0
+            },
+            {
+                "series_id": 192,
+                "series_name": "#My Princess#洗脸好帮手，泡泡气泡网",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1499154605905_6412972735.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497260936399_5043664646.png",
+                "episode_sum": 50,
+                "play": 128100,
+                "charge_count": 0
+            },
+            {
+                "series_id": 190,
+                "series_name": "#匠心手作#行色318-醉美新都桥",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1495778524089_2822576340.jpg",
+                "album": "匠心手作",
+                "album_logo": "http://img.szzhangchu.com/1495076674179_4000531138.png",
+                "episode_sum": 50,
+                "play": 16637,
+                "charge_count": 0
+            },
+            {
+                "series_id": 182,
+                "series_name": "#去过#越南旅行攻略，吃喝玩乐一应俱全！",
+                "tag": "",
+                "episode": 14,
+                "image": "http://img.szzhangchu.com/1499855483572_7045450790.jpg",
+                "album": "去过",
+                "album_logo": "http://img.szzhangchu.com/1491808226018_3754036436.png",
+                "episode_sum": 30,
+                "play": 55099,
+                "charge_count": 0
+            },
+            {
+                "series_id": 188,
+                "series_name": "#Hi走啦# 美哭！千与千寻现实海上小火车",
+                "tag": "",
+                "episode": 50,
+                "image": "http://img.szzhangchu.com/1500025373122_5827950191.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493804646180_7735494160.jpg",
+                "episode_sum": 60,
+                "play": 193459,
+                "charge_count": 0
+            },
+            {
+                "series_id": 156,
+                "series_name": "#初次见#三千年的吴语，说着说着它就变了",
+                "tag": "",
+                "episode": 19,
+                "image": "http://img.szzhangchu.com/1494408553409_4399266022.jpg",
+                "album": "初次见",
+                "album_logo": "http://img.szzhangchu.com/1480042722359_2678611310.png",
+                "episode_sum": 40,
+                "play": 74355,
+                "charge_count": 0
+            },
+            {
+                "series_id": 168,
+                "series_name": "#玩疯了之创玩星球#海绵宝宝旋风吸尘器",
+                "tag": "",
+                "episode": 83,
+                "image": "http://img.szzhangchu.com/1497866415481_6313087115.jpg",
+                "album": "玩疯了之创玩星球",
+                "album_logo": "http://img.szzhangchu.com/1481882123240_6019379959.JPG",
+                "episode_sum": 120,
+                "play": 324241,
+                "charge_count": 0
+            },
+            {
+                "series_id": 184,
+                "series_name": "#狗窝视频#只有一层，与地面同呼吸的英国乡村大宅！",
+                "tag": "",
+                "episode": 45,
+                "image": "http://img.szzhangchu.com/1499851515809_2950475337.jpg",
+                "album": "狗窝视频",
+                "album_logo": "http://img.szzhangchu.com/1492853918068_5453784173.png",
+                "episode_sum": 50,
+                "play": 176452,
+                "charge_count": 0
+            },
+            {
+                "series_id": 187,
+                "series_name": "#一卉视频#三文鱼水果夹心",
+                "tag": "",
+                "episode": 16,
+                "image": "http://img.szzhangchu.com/1497522583676_2585650960.jpg",
+                "album": "一卉视频",
+                "album_logo": "http://img.szzhangchu.com/1493803743815_1542726519.png",
+                "episode_sum": 35,
+                "play": 62608,
+                "charge_count": 0
+            },
+            {
+                "series_id": 179,
+                "series_name": "#大宝健#都烂了，还有救吗？",
+                "tag": "",
+                "episode": 12,
+                "image": "http://img.szzhangchu.com/1494572013645_9914649322.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488273067433_8144077220.png",
+                "episode_sum": 30,
+                "play": 46596,
+                "charge_count": 0
+            },
+            {
+                "series_id": 186,
+                "series_name": "#fittime#健身研究院——杠铃划船训练",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1493703750472_2678821840.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493703750989_2483321781.png",
+                "episode_sum": 35,
+                "play": 19436,
+                "charge_count": 0
+            },
+            {
+                "series_id": 185,
+                "series_name": "#箭厂#北京写字楼里的匿名戒酒会",
+                "tag": "",
+                "episode": 10,
+                "image": "http://img.szzhangchu.com/1500025885969_5682589680.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497954311033_1059797842.JPG",
+                "episode_sum": 35,
+                "play": 38273,
+                "charge_count": 0
+            },
+            {
+                "series_id": 153,
+                "series_name": "#全民宝贝计划#没奶！新生宝宝靠什么撑过前三天？",
+                "tag": "",
+                "episode": 43,
+                "image": "http://img.szzhangchu.com/1496906972341_3101067559.jpg",
+                "album": "全民宝贝计划",
+                "album_logo": "http://img.szzhangchu.com/1479283915608_5677977419.png",
+                "episode_sum": 100,
+                "play": 171468,
+                "charge_count": 0
+            },
+            {
+                "series_id": 183,
+                "series_name": "#与女儿的日常#你的仙女梦我来守护",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1499850175974_5957115572.jpg",
+                "album": "与女儿的日常",
+                "album_logo": "http://img.szzhangchu.com/1491809427807_5003177540.png",
+                "episode_sum": 30,
+                "play": 22855,
+                "charge_count": 0
+            },
+            {
+                "series_id": 181,
+                "series_name": "#赛普普拉提#动作训练之脊柱类动作",
+                "tag": "",
+                "episode": 8,
+                "image": "http://img.szzhangchu.com/1495598295542_3740836237.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1491028486439_4512520638.gif",
+                "episode_sum": 100,
+                "play": 39733,
+                "charge_count": 0
+            },
+            {
+                "series_id": 177,
+                "series_name": "#神奇熊猫#金豆开花",
+                "tag": "",
+                "episode": 14,
+                "image": "http://img.szzhangchu.com/1489651764110_4919965510.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488264574630_7257347270.png",
+                "episode_sum": 40,
+                "play": 53091,
+                "charge_count": 0
+            },
+            {
+                "series_id": 178,
+                "series_name": "#你想生活#三时三餐-回家吃饭",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1489390370601_3097634434.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1488265533262_9407328303.png",
+                "episode_sum": 35,
+                "play": 19373,
+                "charge_count": 0
+            },
+            {
+                "series_id": 151,
+                "series_name": "#优活台湾#宝宝睡眠七招诀窍",
+                "tag": "",
+                "episode": 45,
+                "image": "http://img.szzhangchu.com/1499934405789_1168616113.jpg",
+                "album": "优活台湾",
+                "album_logo": "http://img.szzhangchu.com/1477995794355_4353753378.png",
+                "episode_sum": 50,
+                "play": 173274,
+                "charge_count": 0
+            },
+            {
+                "series_id": 180,
+                "series_name": "#环保小精灵#山坡有危险了",
+                "tag": "",
+                "episode": 33,
+                "image": "http://img.szzhangchu.com/1494318023901_8101340706.jpg",
+                "album": "环保小精灵",
+                "album_logo": "http://img.szzhangchu.com/1490346419802_9940629774.png",
+                "episode_sum": 50,
+                "play": 122926,
+                "charge_count": 0
+            },
+            {
+                "series_id": 176,
+                "series_name": "#李哲教你学解剖#胸锁乳突肌",
+                "tag": "",
+                "episode": 13,
+                "image": "http://img.szzhangchu.com/1495781506090_4224987221.jpg",
+                "album": "李哲教你学解剖",
+                "album_logo": "http://img.szzhangchu.com/1489390784781_2896157974.jpg",
+                "episode_sum": 100,
+                "play": 71300,
+                "charge_count": 0
+            },
+            {
+                "series_id": 175,
+                "series_name": "#瑜伽小队长# 3分钟激活腹部 消除大腿内侧赘肉",
+                "tag": "",
+                "episode": 13,
+                "image": "http://img.szzhangchu.com/1495783109495_7702099462.jpg",
+                "album": "瑜伽小队长",
+                "album_logo": "http://img.szzhangchu.com/1490598247147_1380815658.jpg",
+                "episode_sum": 100,
+                "play": 65501,
+                "charge_count": 0
+            },
+            {
+                "series_id": 174,
+                "series_name": "#二更#雾霾行者",
+                "tag": "",
+                "episode": 13,
+                "image": "http://img.szzhangchu.com/1495780683053_3791918630.jpg",
+                "album": "二更",
+                "album_logo": "http://img.szzhangchu.com/1487583873940_8957903711.jpg",
+                "episode_sum": 100,
+                "play": 64164,
+                "charge_count": 0
+            },
+            {
+                "series_id": 172,
+                "series_name": "#健人贱语#足球-运动前后拉伸篇",
+                "tag": "",
+                "episode": 15,
+                "image": "http://img.szzhangchu.com/1495782594058_3769408474.jpg",
+                "album": "健人贱语",
+                "album_logo": "http://img.szzhangchu.com/1487211609081_9313674815.jpg",
+                "episode_sum": 100,
+                "play": 82042,
+                "charge_count": 0
+            },
+            {
+                "series_id": 167,
+                "series_name": "#科技喵喵喵#开学季学生隐私泄露 谁来为生命买单",
+                "tag": "",
+                "episode": 33,
+                "image": "http://img.szzhangchu.com/1488788347836_2613364064.jpg",
+                "album": "科技喵喵喵",
+                "album_logo": "http://img.szzhangchu.com/1481795330002_3533207870.png",
+                "episode_sum": 35,
+                "play": 129185,
+                "charge_count": 0
+            },
+            {
+                "series_id": 113,
+                "series_name": "#奇育记#鲜果银耳",
+                "tag": "",
+                "episode": 28,
+                "image": "http://img.szzhangchu.com/1488186635841_9941308734.jpg",
+                "album": "奇育记",
+                "album_logo": "http://img.szzhangchu.com/1474964721029_6404622807.png",
+                "episode_sum": 40,
+                "play": 112038,
+                "charge_count": 0
+            },
+            {
+                "series_id": 166,
+                "series_name": "#赛普基础实践教学#打造完美腹肌",
+                "tag": "",
+                "episode": 23,
+                "image": "http://img.szzhangchu.com/1495599336997_3511867555.jpg",
+                "album": "赛普基础实践教学",
+                "album_logo": "http://img.szzhangchu.com/1487584857392_2705247734.gif",
+                "episode_sum": 50,
+                "play": 112361,
+                "charge_count": 0
+            },
+            {
+                "series_id": 165,
+                "series_name": "#焦糖猫的99个育言#如何培养爱看书的宝宝？",
+                "tag": "",
+                "episode": 32,
+                "image": "http://img.szzhangchu.com/1492423166232_9692408591.jpg",
+                "album": "焦糖猫的99个育言",
+                "album_logo": "http://img.szzhangchu.com/1481697573278_2188903541.png",
+                "episode_sum": 40,
+                "play": 124456,
+                "charge_count": 0
+            },
+            {
+                "series_id": 164,
+                "series_name": "#爱啃俱乐部#不会湿的纸",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1484211958203_6673748937.jpg",
+                "album": "爱啃俱乐部",
+                "album_logo": "http://img.szzhangchu.com/1481105852950_6146474586.png",
+                "episode_sum": 40,
+                "play": 23868,
+                "charge_count": 0
+            },
+            {
+                "series_id": 163,
+                "series_name": "#电影恋爱学# 擒住妹纸的几个暧昧动作",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1484293499099_9391497765.jpg",
+                "album": "电影恋爱学",
+                "album_logo": "http://img.szzhangchu.com/1481009800431_8789443184.png",
+                "episode_sum": 50,
+                "play": 24616,
+                "charge_count": 0
+            },
+            {
+                "series_id": 112,
+                "series_name": "#十月呵护#新手爸妈之抱娃",
+                "tag": "",
+                "episode": 51,
+                "image": "http://img.szzhangchu.com/1488188979629_5377911497.jpg",
+                "album": "十月呵护",
+                "album_logo": "http://img.szzhangchu.com/1474884793711_6789632619.png",
+                "episode_sum": 80,
+                "play": 199474,
+                "charge_count": 0
+            },
+            {
+                "series_id": 162,
+                "series_name": "#情趣中国#你是如何对待你自己的",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1487661884472_1700111390.jpg",
+                "album": "情趣中国",
+                "album_logo": "http://img.szzhangchu.com/1480926210728_1387175302.png",
+                "episode_sum": 40,
+                "play": 26774,
+                "charge_count": 0
+            },
+            {
+                "series_id": 161,
+                "series_name": "#橙宝互动#阅读橙宝 晓出净慈寺送林子方",
+                "tag": "",
+                "episode": 8,
+                "image": "http://img.szzhangchu.com/1488176231049_3067248278.jpg",
+                "album": "橙宝互动",
+                "album_logo": "http://img.szzhangchu.com/1480495528272_8917277190.png",
+                "episode_sum": 40,
+                "play": 31039,
+                "charge_count": 0
+            },
+            {
+                "series_id": 171,
+                "series_name": "#留学说#外国食品吐槽大会",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1486610789106_4729390622.jpg",
+                "album": "留学说",
+                "album_logo": "http://img.szzhangchu.com/1484117808290_6877849866.png",
+                "episode_sum": 40,
+                "play": 23193,
+                "charge_count": 0
+            },
+            {
+                "series_id": 160,
+                "series_name": "#Goingworld#缅甸",
+                "tag": "",
+                "episode": 20,
+                "image": "http://img.szzhangchu.com/1495765044834_4505289788.jpg",
+                "album": "Goingworld",
+                "album_logo": "http://img.szzhangchu.com/1484376787414_4167821929.jpg",
+                "episode_sum": 100,
+                "play": 99826,
+                "charge_count": 0
+            },
+            {
+                "series_id": 159,
+                "series_name": "#别对妈说谎#“还在垫高PP来造人？",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1484029007829_6532638262.jpg",
+                "album": "别对妈说谎",
+                "album_logo": "http://img.szzhangchu.com/1480414761400_2142901805.png",
+                "episode_sum": 50,
+                "play": 28121,
+                "charge_count": 0
+            },
+            {
+                "series_id": 157,
+                "series_name": "#babystep#父母成长课堂(3-6月)",
+                "tag": "",
+                "episode": 20,
+                "image": "http://img.szzhangchu.com/1495590859517_1178761716.jpg",
+                "album": "babystep",
+                "album_logo": "http://img.szzhangchu.com/1489395337050_3867880110.jpg",
+                "episode_sum": 100,
+                "play": 95205,
+                "charge_count": 0
+            },
+            {
+                "series_id": 155,
+                "series_name": "#明白了妈#要给宝宝断奶啦，麻麻们好焦虑，肿么办？其实，学会这些技巧，断奶 so easy！",
+                "tag": "",
+                "episode": 20,
+                "image": "http://img.szzhangchu.com/1488272749067_3486114379.jpg",
+                "album": "明白了妈",
+                "album_logo": "http://img.szzhangchu.com/1480039553577_7039267201.png",
+                "episode_sum": 50,
+                "play": 80869,
+                "charge_count": 0
+            },
+            {
+                "series_id": 154,
+                "series_name": "#报告妈妈#好头型，用睡的",
+                "tag": "",
+                "episode": 10,
+                "image": "http://img.szzhangchu.com/1487659101524_3830495585.jpg",
+                "album": "报告妈妈",
+                "album_logo": "http://img.szzhangchu.com/1479378053340_1292361506.png",
+                "episode_sum": 35,
+                "play": 40919,
+                "charge_count": 0
+            },
+            {
+                "series_id": 117,
+                "series_name": "#粉星TV#森系驯鹿妆",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1476093940150_8679507398.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1475999077524_9796147937.png",
+                "episode_sum": 35,
+                "play": 133825,
+                "charge_count": 0
+            },
+            {
+                "series_id": 152,
+                "series_name": "#牛男#最有助于肌肉生长的5种食物",
+                "tag": "",
+                "episode": 9,
+                "image": "http://img.szzhangchu.com/1483696788606_7613173180.jpg",
+                "album": "牛男",
+                "album_logo": "http://img.szzhangchu.com/1478767648307_7775180108.png",
+                "episode_sum": 50,
+                "play": 37229,
+                "charge_count": 0
+            },
+            {
+                "series_id": 121,
+                "series_name": "#赛普功能性教学#功能性小工具训练之弹力绳",
+                "tag": "",
+                "episode": 12,
+                "image": "http://img.szzhangchu.com/1490425466423_2761612064.jpg",
+                "album": "赛普功能性教学",
+                "album_logo": "http://img.szzhangchu.com/1481533902930_8743063683.gif",
+                "episode_sum": 400,
+                "play": 35443,
+                "charge_count": 0
+            },
+            {
+                "series_id": 150,
+                "series_name": "#陪孩玩#宠物小精灵书签",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1480042532704_2070861440.jpg",
+                "album": "陪孩玩",
+                "album_logo": "http://img.szzhangchu.com/1480042533024_3348511068.jpg",
+                "episode_sum": 100,
+                "play": 12238,
+                "charge_count": 0
+            },
+            {
+                "series_id": 109,
+                "series_name": "#太极天王陈斌#技击套路欣赏",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476160947214_7465531929.jpg",
+                "album": "太极天王陈斌",
+                "album_logo": "http://img.szzhangchu.com/1476160947490_8123812600.jpg",
+                "episode_sum": 5,
+                "play": 7584,
+                "charge_count": 0
+            },
+            {
+                "series_id": 149,
+                "series_name": "#酷炫跆拳道#跆拳道礼仪",
+                "tag": "",
+                "episode": 18,
+                "image": "http://img.szzhangchu.com/1476781641942_1356102725.jpg",
+                "album": "酷炫跆拳道",
+                "album_logo": "http://img.szzhangchu.com/1476781642089_5707274429.jpg",
+                "episode_sum": 18,
+                "play": 18877,
+                "charge_count": 0
+            },
+            {
+                "series_id": 148,
+                "series_name": "#百合伽人#三大经典坐姿",
+                "tag": "",
+                "episode": 10,
+                "image": "http://img.szzhangchu.com/1476779044272_6359804595.jpg",
+                "album": "百合伽人",
+                "album_logo": "http://img.szzhangchu.com/1476779044409_8298663310.jpg",
+                "episode_sum": 10,
+                "play": 10548,
+                "charge_count": 0
+            },
+            {
+                "series_id": 147,
+                "series_name": "#中国茶道#玻璃杯泡法之下投法",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1476777469409_5587791294.jpg",
+                "album": "中国茶道",
+                "album_logo": "http://img.szzhangchu.com/1476777469541_2826280192.jpg",
+                "episode_sum": 7,
+                "play": 7517,
+                "charge_count": 0
+            },
+            {
+                "series_id": 146,
+                "series_name": "#孕妈瑜伽#产前安胎瑜伽",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476777042464_2627107448.jpg",
+                "album": "孕妈瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476777042588_5959941247.jpg",
+                "episode_sum": 3,
+                "play": 3188,
+                "charge_count": 0
+            },
+            {
+                "series_id": 145,
+                "series_name": "#更年瑜伽生活馆#延缓更年期",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1476785749110_4268468979.jpg",
+                "album": "更年瑜伽生活馆",
+                "album_logo": "http://img.szzhangchu.com/1476785749290_4267602535.jpg",
+                "episode_sum": 6,
+                "play": 6557,
+                "charge_count": 0
+            },
+            {
+                "series_id": 144,
+                "series_name": "#瑜伽减肚腩#骨盆复位6式",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476775794425_4704492510.jpg",
+                "album": "瑜伽减肚腩",
+                "album_logo": "http://img.szzhangchu.com/1476775794621_3878469740.jpg",
+                "episode_sum": 3,
+                "play": 3143,
+                "charge_count": 0
+            },
+            {
+                "series_id": 143,
+                "series_name": "#气质瑜伽女神#入门基础课",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476780937795_5694560968.jpg",
+                "album": "气质瑜伽女神",
+                "album_logo": "http://img.szzhangchu.com/1476780937958_7283425666.jpg",
+                "episode_sum": 3,
+                "play": 3106,
+                "charge_count": 0
+            },
+            {
+                "series_id": 142,
+                "series_name": "#网球从0学#跟着教练轻松热身",
+                "tag": "",
+                "episode": 4,
+                "image": "http://img.szzhangchu.com/1476775006302_6552499302.jpg",
+                "album": "网球从0学",
+                "album_logo": "http://img.szzhangchu.com/1476775006470_1709544244.jpg",
+                "episode_sum": 4,
+                "play": 4653,
+                "charge_count": 0
+            },
+            {
+                "series_id": 141,
+                "series_name": "#双节棍进阶宝典#跆拳道的移动步法",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476774425599_9862389290.jpg",
+                "album": "双节棍进阶宝典",
+                "album_logo": "http://img.szzhangchu.com/1476774425809_8704794563.jpg",
+                "episode_sum": 5,
+                "play": 5617,
+                "charge_count": 0
+            },
+            {
+                "series_id": 129,
+                "series_name": "#明星私教型男班#热身运动",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1476759552593_5448362142.jpg",
+                "album": "明星私教型男班",
+                "album_logo": "http://img.szzhangchu.com/1476759552739_8107187735.jpg",
+                "episode_sum": 7,
+                "play": 7434,
+                "charge_count": 0
+            },
+            {
+                "series_id": 127,
+                "series_name": "#瑜伽入门学堂#神奇的瑜伽呼吸法",
+                "tag": "",
+                "episode": 4,
+                "image": "http://img.szzhangchu.com/1476758510254_6925989075.jpg",
+                "album": "瑜伽入门学堂",
+                "album_logo": "http://img.szzhangchu.com/1476758510449_7703023346.jpg",
+                "episode_sum": 4,
+                "play": 4171,
+                "charge_count": 0
+            },
+            {
+                "series_id": 126,
+                "series_name": "#家有瑜伽#时间篇",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476758067408_2455392586.jpg",
+                "album": "家有瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476758067540_3605843810.jpg",
+                "episode_sum": 3,
+                "play": 3103,
+                "charge_count": 0
+            },
+            {
+                "series_id": 125,
+                "series_name": "#太极少帅陈斌#基本手型动作解说",
+                "tag": "",
+                "episode": 9,
+                "image": "http://img.szzhangchu.com/1476757115467_3184934348.jpg",
+                "album": "太极少帅陈斌",
+                "album_logo": "http://img.szzhangchu.com/1476757115668_9923954336.jpg",
+                "episode_sum": 9,
+                "play": 9911,
+                "charge_count": 0
+            },
+            {
+                "series_id": 124,
+                "series_name": "#office瑜伽时光#职业充电，健康护航",
+                "tag": "",
+                "episode": 4,
+                "image": "http://img.szzhangchu.com/1476756528979_4448572009.jpg",
+                "album": "office瑜伽时光",
+                "album_logo": "http://img.szzhangchu.com/1476756529106_6876009785.jpg",
+                "episode_sum": 4,
+                "play": 4523,
+                "charge_count": 0
+            },
+            {
+                "series_id": 120,
+                "series_name": "#法式孕妇按摩#GRACE老师的自我介绍",
+                "tag": "",
+                "episode": 11,
+                "image": "http://img.szzhangchu.com/1476434584681_4327600686.jpg",
+                "album": "法式孕妇按摩",
+                "album_logo": "http://img.szzhangchu.com/1476434584902_1645799670.jpg",
+                "episode_sum": 11,
+                "play": 11591,
+                "charge_count": 0
+            },
+            {
+                "series_id": 119,
+                "series_name": "#中国瑜伽行业联盟#暖身动作",
+                "tag": "",
+                "episode": 4,
+                "image": "http://img.szzhangchu.com/1483088188861_3898645783.jpg",
+                "album": "中国瑜伽行业联盟",
+                "album_logo": "http://img.szzhangchu.com/1483088189080_9520875233.png",
+                "episode_sum": 4,
+                "play": 4203,
+                "charge_count": 0
+            },
+            {
+                "series_id": 118,
+                "series_name": "#速瘦7天瑜伽#瑜伽速瘦基础课",
+                "tag": "",
+                "episode": 8,
+                "image": "http://img.szzhangchu.com/1476426214143_4250173616.jpg",
+                "album": "速瘦7天瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476426214278_4936564400.jpg",
+                "episode_sum": 8,
+                "play": 8468,
+                "charge_count": 0
+            },
+            {
+                "series_id": 116,
+                "series_name": "#4周瑜伽减肥营#4周瑜伽减肥营：第一周",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476785866427_7081219624.jpg",
+                "album": "4周瑜伽减肥营",
+                "album_logo": "http://img.szzhangchu.com/1476785866548_9683560870.jpg",
+                "episode_sum": 5,
+                "play": 5256,
+                "charge_count": 0
+            },
+            {
+                "series_id": 114,
+                "series_name": "#跟名师学瑜伽#高级提高篇",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476788158272_1105821526.jpg",
+                "album": "跟名师学瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476788158445_5659882824.jpg",
+                "episode_sum": 5,
+                "play": 3729,
+                "charge_count": 0
+            },
+            {
+                "series_id": 110,
+                "series_name": "#瑜伽瘦身天后#瘦身瑜伽",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476157691432_6792872352.jpg",
+                "album": "瑜伽瘦身天后",
+                "album_logo": "http://img.szzhangchu.com/1476157691614_7997588751.jpg",
+                "episode_sum": 5,
+                "play": 7086,
+                "charge_count": 0
+            },
+            {
+                "series_id": 108,
+                "series_name": "#瑜伽体式学院#高级体位38式",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476157629844_4266149801.jpg",
+                "album": "瑜伽必修经典体位法208式",
+                "album_logo": "http://img.szzhangchu.com/1476157629944_1387025603.jpg",
+                "episode_sum": 7,
+                "play": 6749,
+                "charge_count": 0
+            },
+            {
+                "series_id": 105,
+                "series_name": "#男神·瑜伽#减压瑜伽",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476161017107_1092319857.jpg",
+                "album": "男神·瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476161017210_8340079345.jpg",
+                "episode_sum": 3,
+                "play": 4398,
+                "charge_count": 0
+            },
+            {
+                "series_id": 104,
+                "series_name": "#陈氏秘传养生功#陈式太极拳精要十八式（3）",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1476157551305_6260226549.jpg",
+                "album": "陈氏太极养生功",
+                "album_logo": "http://img.szzhangchu.com/1476157551556_8893562193.jpg",
+                "episode_sum": 7,
+                "play": 10263,
+                "charge_count": 0
+            },
+            {
+                "series_id": 103,
+                "series_name": "#瑜伽玉女丹丹#高级体式练习",
+                "tag": "",
+                "episode": 5,
+                "image": "http://img.szzhangchu.com/1476786867856_4844103302.jpg",
+                "album": "瑜伽玉女丹丹",
+                "album_logo": "http://img.szzhangchu.com/1476786868045_5311830314.jpg",
+                "episode_sum": 5,
+                "play": 7528,
+                "charge_count": 0
+            },
+            {
+                "series_id": 102,
+                "series_name": "#母婴护理天后#大宝宝护理（2）",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1477271653595_7252192884.jpg",
+                "album": "母婴护理天后",
+                "album_logo": "http://img.szzhangchu.com/1477271653692_2634272644.jpg",
+                "episode_sum": 7,
+                "play": 10962,
+                "charge_count": 0
+            },
+            {
+                "series_id": 140,
+                "series_name": "#神武双节棍#功力练习",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1476773376020_9959244735.jpg",
+                "album": "神武双节棍",
+                "album_logo": "http://img.szzhangchu.com/1476773376216_2156628442.jpg",
+                "episode_sum": 7,
+                "play": 6273,
+                "charge_count": 0
+            },
+            {
+                "series_id": 138,
+                "series_name": "#瘦身女王#燃脂哑铃操",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476772169641_6071348140.jpg",
+                "album": "瘦身女王",
+                "album_logo": "http://img.szzhangchu.com/1476772169785_7019534278.jpg",
+                "episode_sum": 3,
+                "play": 3384,
+                "charge_count": 0
+            },
+            {
+                "series_id": 137,
+                "series_name": "#汀娜的巾彩生活#丝巾的6种基础叠法",
+                "tag": "",
+                "episode": 4,
+                "image": "http://img.szzhangchu.com/1476838036094_1200248933.jpg",
+                "album": "汀娜的巾彩生活",
+                "album_logo": "http://img.szzhangchu.com/1476838036324_4163024257.jpg",
+                "episode_sum": 4,
+                "play": 5088,
+                "charge_count": 0
+            },
+            {
+                "series_id": 136,
+                "series_name": "#零压力有氧瑜伽#瑜伽减压，提高执行力",
+                "tag": "",
+                "episode": 7,
+                "image": "http://img.szzhangchu.com/1476770705516_2662798601.jpg",
+                "album": "零压力有氧瑜伽",
+                "album_logo": "http://img.szzhangchu.com/1476770705655_6929183330.jpg",
+                "episode_sum": 7,
+                "play": 8556,
+                "charge_count": 0
+            },
+            {
+                "series_id": 133,
+                "series_name": "#跆拳道进阶宝典#跆拳道的基本表演",
+                "tag": "",
+                "episode": 8,
+                "image": "http://img.szzhangchu.com/1476762940103_2047845134.jpg",
+                "album": "跆拳道进阶宝典",
+                "album_logo": "http://img.szzhangchu.com/1476762940238_3154708463.jpg",
+                "episode_sum": 8,
+                "play": 9762,
+                "charge_count": 0
+            },
+            {
+                "series_id": 132,
+                "series_name": "#青少年跆拳道馆#跆拳道礼仪",
+                "tag": "",
+                "episode": 6,
+                "image": "http://img.szzhangchu.com/1476762361223_9360150262.jpg",
+                "album": "青少年跆拳道馆",
+                "album_logo": "http://img.szzhangchu.com/1476762361349_7482491443.jpg",
+                "episode_sum": 6,
+                "play": 7813,
+                "charge_count": 0
+            },
+            {
+                "series_id": 131,
+                "series_name": "#男子哑铃班#哑铃了解",
+                "tag": "",
+                "episode": 11,
+                "image": "http://img.szzhangchu.com/1476761250546_7588962655.jpg",
+                "album": "男子哑铃班",
+                "album_logo": "http://img.szzhangchu.com/1476761250779_2420242300.jpg",
+                "episode_sum": 11,
+                "play": 13982,
+                "charge_count": 0
+            },
+            {
+                "series_id": 130,
+                "series_name": "#母乳喂养#GRACE老师的自我介绍",
+                "tag": "",
+                "episode": 11,
+                "image": "http://img.szzhangchu.com/1476760218908_2247984400.jpg",
+                "album": "母乳喂养",
+                "album_logo": "http://img.szzhangchu.com/1476760219003_8327813188.jpg",
+                "episode_sum": 11,
+                "play": 13359,
+                "charge_count": 0
+            },
+            {
+                "series_id": 128,
+                "series_name": "#美容伽人#瑜伽呼吸法",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1476759054246_8317675549.jpg",
+                "album": "美容伽人",
+                "album_logo": "http://img.szzhangchu.com/1476759054365_3151092295.jpg",
+                "episode_sum": 3,
+                "play": 3147,
+                "charge_count": 0
+            }
+        ]
+    },
+    "code": "0",
+    "msg": "success",
+    "timestamp": 1499779326617,
+    "version": "4.4"
+}

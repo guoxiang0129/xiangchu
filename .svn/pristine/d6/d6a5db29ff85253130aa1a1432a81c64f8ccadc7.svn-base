@@ -1,0 +1,169 @@
+<template>
+    <alllist>
+        <div slot="header" class="header-left">
+            <a href="/">首页</a>
+            &nbsp;>&nbsp;
+            <router-link to="/community">社区</router-link>
+        </div>
+        <div class="community-main">
+            <div class="community-page-post">
+                <div class="scroller">
+                    <ul class="post-warp">
+                        <li v-for="item in communitydata" :key="item">
+                            <div class="post-li">
+                                <a :href="item.share_url" class="img">
+                                    <img :src="item.image" class="wimg">      
+                                </a>
+                                <div class="info-bar">
+                                    <a href="" class="user-head">
+                                        <img :src="item.head_img" :alt="item.nick">
+                                    </a>
+                                    <a :href="item.share_url" class="sub-text">
+                                        <span class="sub-title" id="sub-title">{{item.nick}}</span>
+                                        <span class="sub-nub" id="sub-nub">{{item.create_time}}</span>
+                                    </a>  
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </alllist>
+</template>
+<script>
+    // 导入公共模块
+    import alllist from '../components/Alllist'
+
+    export default{
+        data(){
+            return{
+                communitydata:[]
+            }
+        },
+        methods:{
+            getData:function(){
+                this.$http.get('../../static/community.json')
+                .then(res => {
+                    console.log(res.data.data);
+                    this.communitydata = res.data.data.data;
+                })
+            }
+        },
+        created:function(){
+            this.getData();
+        },
+        components:{
+            alllist
+        }
+    }           
+</script>
+<style>
+   header .header-left{
+        position:absolute;
+        top:0;
+        left:1rem;
+   }
+   .community-main{
+        padding:0.4rem 0;
+        min-height:10rem;
+        overflow:hidden;
+   }
+   .community-page-post{
+       position:relative;
+   }
+   .scroller{
+        float: left;
+        width: 100%;
+        padding: 0;
+        position: relative;
+        min-height: 100.25%;
+        z-index: 1;
+   }   
+   .community-page-post li{
+        margin-bottom: 0.1rem;
+        position: relative;
+        margin-top: 0;
+        overflow: hidden;
+        width: 50%;
+        height: 10rem;
+        float: left;
+   }
+   .community-page-post li:nth-of-type(2n+1){
+       padding-left:0;
+       padding-right:0.05rem;
+   }
+   .community-page-post li .post-li{
+       background-color:#fff;
+   }
+   .community-page-post li a{
+        background-color: #fff;
+        position: relative;
+        overflow: hidden;
+        display: block;
+   }
+   .community-page-post li .post-li .img{
+       height:8rem;
+       width:100%;
+   }
+   .wimg{
+        max-width: 100%;
+        font-size: 0px;
+        display: block;
+        margin: 0 auto;
+   }
+   .community-page-post li .post-li .info-bar{
+       height:2rem;
+       position:relative;
+       width:100%;
+   }
+   .post-li .info-bar a{
+       position:absolute;
+   }
+   .user-head{
+        margin-left: 0.25rem;
+        margin-right: 0.25rem;
+        width: 2rem;
+        height: 2rem;
+   }
+   .user-head img{
+        border-radius: 3rem;
+        width: 1.5rem;
+        height: 1.5rem;
+        margin-top: 0.25rem;
+        margin-left: 0.25rem;
+   }
+   .info-bar .sub-text{
+        padding-top: 0.15rem;
+        width: 4.9rem;
+        margin-left: 2.5rem;
+        height: 2rem;
+        z-index: 2;
+        background-color: #fff;
+   }
+   .sub-text span{
+       display:block;
+   }
+   .community-page-post a .sub-title{
+        color: #50493e;
+        overflow: hidden;
+        height: 0.8rem;
+        line-height: 0.8rem;
+        font-size: 0.7rem;
+        margin-bottom: 0.2rem;
+   }
+   .community-page-post .sub-text .sub-nub{
+        color: #a3a3a3;
+        overflow: hidden;
+        height: 0.7rem;
+        line-height: 0.7rem;
+   }
+   .sub-nub{
+       font-size:0.6rem;
+   }
+   #community-footer{
+       width:100%;
+       height:2.1rem;
+       background:#fff;
+   }
+</style>

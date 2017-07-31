@@ -1,0 +1,16 @@
+<template>
+    <div class="market-page">
+        <smallnav></smallnav>
+    </div>
+</template>
+<script>
+import smallnav from '../components/smallNav'
+export default {
+    components:{
+        smallnav
+    }
+}
+</script>
+<style>
+
+</style>

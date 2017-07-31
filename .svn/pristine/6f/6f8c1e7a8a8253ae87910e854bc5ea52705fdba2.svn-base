@@ -1,0 +1,252 @@
+<template>
+  <div id="app">
+    <!--<ul class="footer-nav">
+      <router-link tag="li" to="/" class="footer-item home-item">
+        掌厨
+      </router-link>
+      <router-link tag="li" to="/market" class="footer-item market-item">
+        市集
+      </router-link>
+      <router-link tag="li" to="/cart" class="footer-item cart-item">
+        <span class="pageName">购物车</span>
+      </router-link>
+      <router-link tag="li" to="/mine" class="footer-item mine-item">
+        <span class="pageName">我的</span>
+      </router-link>
+    </ul>-->
+    <smallnav></smallnav>
+    <!--底部购物车以及回到底部-->
+    <div class="rightfixed">
+        <router-link to="/cart" class="cart-img">
+        <span class="allmount" :class="{'isdisplay':amount==0}">{{getAllAmount}}</span>
+        </router-link>
+        <a href="javascript:void(0)" class="backup" @click="backup" :class="{'isdisplay':backflag==false}">
+            
+        </a>
+    </div>
+    <router-view></router-view>
+  </div>
+</template>
+<script>
+    import smallnav from './components/smallNav'
+    // 引入全局默认样式
+    import './assets/reset.css'
+    export default {
+        name: 'app',
+        data() {
+            return {
+                backflag:false,
+                flag: true,
+                amount:0
+            }
+        },
+        // 依赖data中数据的要写在计算属性中
+        computed:{
+             getAllAmount:function(){
+                this.amount = this.$store.getters.getAmount;
+                return this.amount;
+            }
+        },
+        methods: {
+            /*文本大小随视口宽度变化的动态设置*/
+            screenChange: function() {
+                var winW = document.documentElement.clientWidth || document.body.clientWidth;
+                winW = winW > 640 ? 640 : winW;
+                document.documentElement.style.fontSize = winW / 16 + "px";
+                window.onresize = function() {
+                    var winwidth = document.documentElement.clientWidth || document.body.clientWidth;
+                    winwidth = winwidth > 640 ? 640 : winwidth;
+                    document.documentElement.style.fontSize = winwidth / 16 + "px";
+                }
+            },
+            scrollChange:function(){
+                var _this = this;
+                window.onscroll = function(){
+                    var scroll = document.body.scrollTop;
+                    if(scroll>700){
+                        _this.backflag = true;
+                    }else{
+                        _this.backflag = false;
+                    }
+                }
+            },
+            backup:function(){
+                // var timer = setInterval(function(){
+                //     document.body.scrollTop -= 3;
+                //     if(document.body.scrollTop<=0){
+                //         this.scrollTop = 0;
+                //         clearInterval(timer);
+                //     }
+                // },2);
+                $("body").animate({scrollTop:0},500);
+            }
+
+        },
+        created() {
+            this.screenChange();
+            this.scrollChange();
+        },
+        components:{
+            smallnav
+        }
+    }
+</script>
+
+<style>
+    /*全局基本设置*/
+    .isdisplay{
+        display: none;
+    }
+    html {
+        font-size: 20px;
+        background-color: #eee;
+        color: #474230;
+        /*overflow-y: scroll;*/
+    }
+    
+    html,
+    body {
+        font-family: "microsoft YaHei", sans-serif;
+    }
+    
+    body {
+        /*min-width: 320px;
+        max-width: 640px;*/
+        margin: 0 auto;
+        background-color: #eee;
+        color: #5d5d5d;
+    }
+    
+    #app {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+        color: #2c3e50;
+        /*margin-top: 60px;*/
+        font-size: .7rem;
+        height: 100%;
+        background-color: #eee;
+    }
+    
+    .footer-nav {
+        list-style: none;
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 2.1rem;
+        background-color: rgba(246, 246, 246, .95);
+        z-index: 15;
+        overflow: hidden;
+    }
+    
+    .footer-nav .footer-item {
+        float: left;
+        width: 25%;
+        height: 100%;
+        text-align: center;
+        color: #777;
+        font-size: .6rem;
+        position: relative;
+        padding-top: 1.1rem;
+    }
+    
+    .footer-nav .home-item {
+        background: url(./assets/home2.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .market-item {
+        background: url(./assets/market1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .cart-item {
+        background: url(./assets/shop1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    
+    .footer-nav .mine-item {
+        background: url(./assets/mine1.png) no-repeat center .18rem;
+        background-size: auto .9rem;
+    }
+    .rightfixed{
+        position: fixed;
+        right: .4rem;
+        bottom: 1.8rem;
+        width: 2rem;
+        height: 3.5rem;
+        z-index: 7;
+    }
+    .rightfixed .cart-img{
+        width: 1.5rem;
+        height: 1.5rem;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-image: url(./assets/c.png);
+        background-size: contain;
+    }
+    .rightfixed .cart-img .allmount{
+        position: absolute;
+        top: -.4rem;
+        left: .4rem;
+        width: .9rem;
+        height: .9rem;
+        border-radius: 100%;
+        -moz-border-radius: 100%;
+        -webkit-border-radius: 100%;
+        background: #ff935e;
+        color: #fff;
+        font-size: .7rem;
+        text-align: center;
+        line-height: .9rem;
+    }
+    .rightfixed .backup{
+        width: 1.5rem;
+        height: 1.5rem;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: rgba(0,0,0,.4);
+        color: #fff;
+        text-align: center;
+        line-height: 1.5rem;
+        font-size: 1rem;
+        border-radius: 50%;
+        z-index: 10000;
+    }
+    .rightfixed .backup:after{
+        position: absolute;
+        right: .48rem;
+        bottom: .6rem;
+        width: 0;
+        height: 0;
+        content: "";
+        border-width: 0 6px 6px 6px;
+        border-style: solid;
+        border-color: rgba(0,0,0,.4) transparent;
+        -webkit-transition: all .25s;
+        -moz-transition: all .25s;
+            -ms-transition: all .25s;
+            -o-transition: all .25s;
+                transition: all .25s;
+    }
+    .rightfixed .backup:before {
+        position: absolute;
+        right: .4rem;
+        bottom: .6rem;
+        width: 0;
+        height: 0;
+        content: "";
+        border-width: 0 8px 8px 8px;
+        border-style: solid;
+        border-color: #fff transparent;
+        -webkit-transition: transform .25s;
+        -moz-transition: transform .25s;
+            -ms-transition: transform .25s;
+            -o-transition: transform .25s;
+                transition: transform .25s;
+    }
+</style>

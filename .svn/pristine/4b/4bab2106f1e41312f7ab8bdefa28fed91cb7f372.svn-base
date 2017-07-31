@@ -1,0 +1,458 @@
+<template>
+    <div class="food-page">
+        <div class="food-header-tab">
+            <div class="food-header-tab-wrap">
+                <div class="left">
+                    <a href="/" class="left-ico">
+                        <span class="left-img"></span>
+                    </a>
+                </div>
+                <div class="nav-header">
+                    <ul>
+                        <li class="course" :class="{active:activeIndex==index,active2:activeIndex==index}" v-for="(item,index) in tabs" :key="item" @click="changeIndex(index)">
+                            <span class="course-link">{{item.name}}</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="right">
+                    <router-link to="" class="right-ico">
+                        <span class="right-img"></span>
+                    </router-link>
+                </div>
+                <div class="menu-wrap">
+                    <router-link to="" class="menu-wrap-ico">
+                        <span class="menu-wrap-img"></span>
+                    </router-link>
+                </div>
+            </div>
+        </div>
+        <div class="food-main-page">
+            <div class="page-first page-r" :class="{active:activeIndex==index}" v-for="(item,index) in tabs" :key="item">
+                <div class="logo-wrap">
+                    <div class="swiper-nav-container">
+                        <div class="swiper-nav-wrapper">
+                            <div class="swiper-nav-slide" v-for="(item,index) in imgs1" :key="item">
+                                <router-link to="/" class="item">
+                                    <img class="item-img" :src="item.album_logo"></img>
+                                </router-link>
+                            </div>
+                        </div>
+                        <div class="swiper-nav-button-prev swiper-nav-button-disabled">
+                        </div>
+                        <div class="swiper-nav-button-next swiper-nav-button-disabled">
+                        </div>
+                    </div>
+                </div>
+                <div class="album-gap">
+    
+                </div>
+                <ul class="course-wrap">
+                    <li v-for="(item,index) in lists" :key="item">
+                        <div class="course-wrap-outer">
+                            <div class="course-wrap-inner">
+                                <router-link to="/" class="course-wrap-item">
+                                    <img class="course-wrap-img" :src="item.image"></img>
+                                    <div class="detail">
+                                        <span class="detail-title">{{item.series_name}}</span>
+                                        <span class="sub-title">更新至{{item.episode}}集&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上课人数：{{item.play}}</span>
+                                        <img class="course-wrap-logo" :src="item.album_logo" style="width:2.6rem;"></img>
+                                        <span class="course-wrap-album">{{item.album}}</span>
+                                    </div>
+                                </router-link>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="load-more" class="load">
+            还剩下
+            <span class="num">17</span>
+            篇
+        </div>
+        <div class="area"></div>
+    </div>
+</template>
+<script>
+export default {
+    data() {
+        return {
+            activeIndex: 0,
+            index: '',
+            tabs: [
+                { name: '美食IP' },
+                { name: '健康IP' },
+                { name: '台湾IP' }
+            ],
+            imgs: [],
+            imgs1:[],
+            imgs2:[],
+            lists:[],
+            lists1:[],
+            lists2:[]
+        }
+    },
+    methods: {
+        getData: function () {
+            //作用域问题，获取不到外界的this.lists
+            var $this = this;
+            // this.$http == axios
+            this.$http.get('../../static/healthIP.json').then(function (res) {
+                // console.log(res);
+                // $this.lists = res.data.data;
+                //  console.log(res.body);
+                // var retdata = res.body;
+                // this.lists = JSON.parse(retdata).data;
+                $this.imgs = res.data.data.albums;
+                $this.imgs1 = $this.imgs.slice(0,40);
+                $this.imgs2 = $this.imgs.slice(40);
+
+            });
+            this.$http.get('../../static/healthcont.json').then(function (res) {
+                // console.log(res);
+                $this.lists = res.data.data.data;
+            });
+        },
+        changeIndex: function (index) {
+            this.activeIndex = index;
+        }
+    },
+    created() {
+        this.getData();
+    }
+}
+</script>
+<style>
+.food-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 11;
+    /*background-color: pink;*/
+}
+
+.food-header-tab {
+    background-color: #fff;
+    height: 2.2rem;
+    line-height: 2.2rem;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.food-header-tab-wrap {
+    /*min-width: 320px;
+    max-width: 640px;*/
+    margin: 0 auto;
+    text-align: center;
+    color: #333;
+    font-size: 0.8rem;
+    position: relative;
+    height: 2.2rem;
+}
+
+.food-header-tab-wrap .left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.food-header-tab-wrap .left .left-ico {
+    display: inline-block;
+    width: 1.2rem;
+    height: 2.2rem;
+    line-height: 2.1rem;
+}
+
+.food-header-tab-wrap .left .left-img {
+    background-image: url(../assets/food-left.png);
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 0.09rem;
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 0.45rem;
+    background-size: cover;
+}
+
+.food-header-tab-wrap .nav-header {
+    width: 9rem;
+    margin: 0rem auto;
+    height: 2.2rem;
+    text-align: center;
+}
+
+.food-header-tab-wrap .nav-header .course {
+    margin: 0;
+    width: 33.333333%;
+    float: left;
+    line-height: 2.15rem;
+    height: 2.15rem;
+    border-bottom: 0.1rem solid #fff;
+}
+
+.food-header-tab-wrap .right {
+    right: 1.4rem;
+    position: absolute;
+    top: 0;
+}
+
+.food-header-tab-wrap .right .right-ico {
+    display: inline-block;
+    width: 1.2rem;
+    height: 2.2rem;
+    line-height: 2.1rem;
+    text-align: center;
+}
+
+.food-header-tab-wrap .right .right-img {
+    margin-top: 0.42rem;
+    vertical-align: top;
+    background-image: url(../assets/food-search.png);
+    width: 1.2rem;
+    height: 1.2rem;
+    background-size: cover;
+    display: inline-block;
+}
+
+.food-header-tab-wrap .menu-wrap {
+    right: 1.4rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.food-header-tab-wrap .menu-wrap .menu-wrapt-ico {
+    display: inline-block;
+    width: 1.2rem;
+    height: 2.2rem;
+    line-height: 2.1rem;
+    text-align: center;
+}
+
+.food-header-tab-wrap .menu-wrap .menu-wrap-img {
+    margin-top: 0.42rem;
+    vertical-align: top;
+    background-image: url(../assets/food-menu.png);
+    width: 1.2rem;
+    height: 1.2rem;
+    background-size: cover;
+    display: inline-block;
+}
+
+.page-r {
+    display: none;
+    width: 100%;
+    height: 10rem;
+}
+
+.active {
+    display: inline-block;
+}
+
+.food-header-tab-wrap .nav-header .active2 {
+    border-bottom: 0.1rem solid #ff8f5c;
+}
+
+
+.food-main-page {
+    margin-top: 2.2rem;
+}
+
+.food-main-page .logo-wrap {
+    position: fixed;
+    top: 2.2rem;
+    left: 0;
+    height: 3.6rem;
+    width: 100%;
+    overflow: hidden;
+    background: transparent;
+    z-index: 1000;
+}
+
+.food-main-page .logo-wrap .swiper-nav-container {
+    /*min-width: 320px;
+    max-width: 640px;*/
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    height: 3.6rem;
+    background: #fff;
+    border-bottom: 1px solid #f2f2f2;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.food-main-page .logo-wrap .swiper-nav-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+}
+
+.food-main-page .logo-wrap .swiper-nav-slide {
+    widows: 3.125rem;
+    text-align: center;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    margin-left: .3rem;
+}
+
+.food-main-page .logo-wrap .swiper-nav-slide .item-img {
+    width: 2.4rem;
+    height: 2.4rem;
+    border-radius: 50%;
+    font-size: 0px;
+    display: block;
+    margin: 0 auto;
+}
+
+.swiper-nav-button-prev,
+.swiper-nav-button-next {
+    top: 0;
+    margin-top: 0px;
+    height: 100%;
+    width: 2.7rem;
+    background: #fff;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.swiper-nav-button-prev {
+    left: 0;
+}
+
+.swiper-nav-button-next {
+    right: 0;
+}
+
+.swiper-nav-button-prev::before,
+.swiper-nav-button-next::before {
+    width: 0.8rem;
+    height: 0.8rem;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    color: #ff7836;
+    font-size: 1.2rem;
+    content: "";
+}
+
+.swiper-nav-button-prev::before {
+    background: url(../assets/swiper-button-prev.png) center;
+    background-size: cover;
+}
+
+.swiper-nav-button-next::before {
+    background: url(../assets/swiper-button-next.png) center;
+    background-size: cover;
+}
+
+.album-gap {
+    height: 3.6rem;
+}
+
+.course-wrap-outer {
+    background-color: #fff;
+    margin-top: .4rem;
+    padding: 0;
+    box-shadow: 0px 0px 1px #ccc;
+}
+
+.course-wrap-inner {
+    position: relative;
+    overflow: hidden;
+}
+
+.course-wrap-inner .course-wrap-item {
+    margin-top: 0;
+    position: relative;
+    display: block;
+}
+
+.course-wrap-inner .course-wrap-item .course-wrap-img {
+    width: 100%;
+    font-size: 0px;
+    display: block;
+    margin: 0 auto;
+}
+
+.course-wrap-item .detail {
+    padding: 0.7rem;
+    position: relative;
+    height: 3.2rem;
+}
+
+.course-wrap-item .detail .detail-title {
+    color: #464646;
+    font-size: 0.7rem;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    width: 70%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: absolute;
+    left: 0.7rem;
+    text-align: left;
+}
+
+.course-wrap-item .detail .sub-title {
+    color: #a0a0a0;
+    font-size: 0.6rem;
+    position: absolute;
+    left: 0.7rem;
+    bottom: 0.7rem;
+}
+
+.course-wrap-item .detail .course-wrap-logo {
+    width: 2.6rem;
+    height: 2.6rem;
+    border-radius: 50%;
+    position: absolute;
+    right: 0.7rem;
+    top: -1.3rem;
+    width: 100%;
+    font-size: 0px;
+    display: block;
+    margin: 0 auto;
+}
+
+.course-wrap-item .detail .course-wrap-album {
+    text-align: center;
+    width: 3rem;
+    height: 0.8rem;
+    font-size: 0.6rem;
+    color: #a0a0a0;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    right: 0.5rem;
+    bottom: 0.7rem;
+}
+.load {
+    margin: .5rem .5rem .5rem .5rem;
+    padding: 0 .6rem;
+    text-align: center;
+    background: #ddd;
+    color: #666;
+    font-size: .8rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+    border-radius: .8rem;
+}
+.area{
+    width: 100%;
+    height: 2rem;
+}
+</style>

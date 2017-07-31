@@ -1,0 +1,89 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.0",
+    "timestamp": 1499779326000,
+    "data": {
+        "albums": [{
+            "series_id": "128",
+            "album": "爱女生杂志",
+            "album_logo": "http://img.szzhangchu.com/1490944525470_4682098124.png",
+            "charge_count": 0
+        }],
+         "data": {
+            "page": "1",
+            "size": "10",
+            "total": "1",
+            "count": "1",
+            "top": [],
+            "data": [{
+                "series_id": 128,
+                "series_name": "#爱女生杂志#超强存在感土色唇！",
+                "image": "http://img.szzhangchu.com/1490944525315_6087385590.jpg",
+                "episode_sum": 40,
+                "charge_count": 0,
+                "tag": "",
+                "album": "爱女生杂志",
+                "album_logo": "http://img.szzhangchu.com/1490944525470_4682098124.png",
+                "episode": 11,
+                "play": 44493
+            },{
+                "series_id": 192,
+                "series_name": "#My Princess#洗脸好帮手，泡泡气泡网",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1499154605905_6412972735.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497260936399_5043664646.png",
+                "episode_sum": 50,
+                "play": 128100,
+                "charge_count": 0
+            },{
+                "series_id": 182,
+                "series_name": "#去过#情绪单细胞VS乱中有序的泰国",
+                "tag": "",
+                "episode": 13,
+                "image": "http://img.szzhangchu.com/1498123651179_5964518775.jpg",
+                "album": "去过",
+                "album_logo": "http://img.szzhangchu.com/1491808226018_3754036436.png",
+                "episode_sum": 30,
+                "play": 51090,
+                "charge_count": 0
+            },{
+                "series_id": 188,
+                "series_name": "#Hi走啦#土豪！包下一辆火车游越南",
+                "tag": "",
+                "episode": 44,
+                "image": "http://img.szzhangchu.com/1498031141970_7892511962.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493804646180_7735494160.jpg",
+                "episode_sum": 60,
+                "play": 169628,
+                "charge_count": 0
+            },{
+                "series_id": 191,
+                "series_name": "#独道#养生果酱的秘密",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1496902585226_6118765324.jpg",
+                "album": "独道",
+                "album_logo": "http://img.szzhangchu.com/1495705520215_2472698151.png",
+                "episode_sum": 40,
+                "play": 131302,
+                "charge_count": 0
+            },{
+                "series_id": 184,
+                "series_name": "#狗窝视频#长得好看，才配做我的酒柜！",
+                "tag": "",
+                "episode": 42,
+                "image": "http://img.szzhangchu.com/1497430745473_6661915835.jpg",
+                "album": "狗窝视频",
+                "album_logo": "http://img.szzhangchu.com/1492853918068_5453784173.png",
+                "episode_sum": 50,
+                "play": 165178,
+                "charge_count": 0
+            }
+        ]
+        }
+    }
+}

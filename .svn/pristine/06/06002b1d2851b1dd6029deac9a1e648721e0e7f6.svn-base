@@ -1,0 +1,713 @@
+{
+    "code": "0",
+    "msg": "success",
+    "version": "4.2",
+    "timestamp": 1499780976000,
+    "data": {
+        "page": 1,
+        "size": 20,
+        "total": 127,
+        "count": 20,
+        "data": [{
+                "image": "http://img.szzhangchu.com/1439359787388_7502246769.jpg",
+                "material_video": "http://video.szzhangchu.com/babaosucaiA.mp4",
+                "process_video": "http://video.szzhangchu.com/babaosucaiB.mp4",
+                "dishes_id": 1548,
+                "dishes_name": "八宝素菜",
+                "dishes_desc": "八宝素菜用料讲究，摆盘精致，是潮州素菜中的经典代表，烹饪后入口柔滑，鲜美异常，每样素菜的味道都很好，果然能称“宝”。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=1548",
+                "like": 0,
+                "tags_info": [{
+                        "id": 163,
+                        "text": "瓜果类",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 161,
+                        "text": "菌菇类",
+                        "type": 2
+                    },
+                    {
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439445166364_2597801580.JPG",
+                "material_video": "http://video.szzhangchu.com/guihuafengmizhengluoboA.mp4",
+                "process_video": "http://video.szzhangchu.com/guihuafengmizhengluoboB.mp4",
+                "dishes_id": 13213,
+                "dishes_name": "桂花蜂蜜蒸萝卜",
+                "dishes_desc": "萝卜染上桂花香，蒸出来，每一口，都泌人心脾，好似你真的就在桂花树下，慢慢品着软软的甜香萝卜一般。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=13213",
+                "like": 0,
+                "tags_info": [{
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 261,
+                        "text": "粤菜",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1495456085783_4942171705.jpg",
+                "material_video": "http://video.szzhangchu.com/ganshucaomifanA.mp4",
+                "process_video": "http://video.szzhangchu.com/ganshucaomifanB.mp4",
+                "dishes_id": 15773,
+                "dishes_name": "甘薯糙米饭",
+                "dishes_desc": "喜欢口感软糯的，可以将甘薯和糙米饭一起煮，煮出来的甘薯糙米饭味道香甜，温香袭人。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=15773",
+                "like": 0,
+                "tags_info": [{
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    },
+                    {
+                        "id": 251,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 260,
+                        "text": "湘菜",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 381,
+                        "text": "瘦身餐",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439434969318_7666335307.jpg",
+                "material_video": "http://video.szzhangchu.com/suzhengyutouA.mp4",
+                "process_video": "http://video.szzhangchu.com/suzhengyutouB.mp4",
+                "dishes_id": 13055,
+                "dishes_name": "素蒸芋头",
+                "dishes_desc": "小清新芋头，咬下去满口馨香，回味无穷。告诉你一个秘密，其实我本名诱人啊。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=13055",
+                "like": 0,
+                "tags_info": [{
+                        "id": 322,
+                        "text": "淡",
+                        "type": 2
+                    },
+                    {
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 308,
+                        "text": "健脾止泻",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439346231955_4961888381.jpg",
+                "material_video": "http://video.szzhangchu.com/dabaicaibaorouA.mp4",
+                "process_video": "http://video.szzhangchu.com/dabaicaibaorouB.mp4",
+                "dishes_id": 762,
+                "dishes_name": "大白菜包肉",
+                "dishes_desc": "白菜翠绿剔透，爽滑多汁，还会受到冷遇？今天，它要转型，满足你口口吃到肉的愿望！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=762",
+                "like": 0,
+                "tags_info": [{
+                        "id": 344,
+                        "text": "厨师",
+                        "type": 2
+                    },
+                    {
+                        "id": 295,
+                        "text": "开胃消食",
+                        "type": 2
+                    },
+                    {
+                        "id": 151,
+                        "text": "猪肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439363709781_6860486033.jpg",
+                "material_video": "http://video.szzhangchu.com/ganguomoyuziA.mp4",
+                "process_video": "http://video.szzhangchu.com/ganguomoyuziB.mp4",
+                "dishes_id": 671,
+                "dishes_name": "干锅墨鱼仔",
+                "dishes_desc": "从营养和经济的角度来说，墨鱼的性价比无疑名列前茅。这道干锅墨鱼仔更是色香味俱全。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=671",
+                "like": 0,
+                "tags_info": [{
+                        "id": 340,
+                        "text": "家庭主妇",
+                        "type": 2
+                    },
+                    {
+                        "id": 326,
+                        "text": "炒",
+                        "type": 2
+                    },
+                    {
+                        "id": 319,
+                        "text": "辣",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 150,
+                        "text": "河鲜海鲜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439366518176_1527890087.jpg",
+                "material_video": "http://video.szzhangchu.com/qingtangxieyuanA.mp4",
+                "process_video": "http://video.szzhangchu.com/qingtangxieyuanB.mp4",
+                "dishes_id": 1199,
+                "dishes_name": "清汤蟹圆",
+                "dishes_desc": "这道菜肴制作精细，是将虾肉、蟹肉制成丸子做成的一道汤品，口味鲜香，滋补营养。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=1199",
+                "like": 0,
+                "tags_info": [{
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    },
+                    {
+                        "id": 265,
+                        "text": "浙菜",
+                        "type": 2
+                    },
+                    {
+                        "id": 149,
+                        "text": "蛋类",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 177,
+                        "text": "水产汤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439361133206_1208595140.jpg",
+                "material_video": "http://video.szzhangchu.com/banlidunbaicaiA.mp4",
+                "process_video": "http://video.szzhangchu.com/banlidunbaicaiB.mp4",
+                "dishes_id": 961,
+                "dishes_name": "板栗炖白菜",
+                "dishes_desc": "栗子香甜味美，很多人爱吃。有人会觉得栗子很难做，好像非要做成大菜，其实不然。这道板栗炖白菜，就是将白菜和板栗一起做，操作很简单，同样味美，好吃挡不住。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=961",
+                "like": 0,
+                "tags_info": [{
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 331,
+                        "text": "炖",
+                        "type": 2
+                    },
+                    {
+                        "id": 159,
+                        "text": "根茎类",
+                        "type": 2
+                    },
+                    {
+                        "id": 160,
+                        "text": "叶菜类",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1458650943164_8422665159.jpg",
+                "material_video": "http://video.szzhangchu.com/caomeibudingA.mp4",
+                "process_video": "http://video.szzhangchu.com/caomeibudingB.mp4",
+                "dishes_id": 14909,
+                "dishes_name": "草莓布丁",
+                "dishes_desc": "简单的做法，享受简单的美味。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=14909",
+                "like": 0,
+                "tags_info": [{
+                        "id": 297,
+                        "text": "安神助眠",
+                        "type": 2
+                    },
+                    {
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 404,
+                        "text": "烘焙时光",
+                        "type": 2
+                    },
+                    {
+                        "id": 346,
+                        "text": "小鲜肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 378,
+                        "text": "早餐",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439394305257_9547683533.JPG",
+                "material_video": "http://video.szzhangchu.com/fenzhengsijidouA.mp4",
+                "process_video": "http://video.szzhangchu.com/fenzhengsijidouB.mp4",
+                "dishes_id": 12548,
+                "dishes_name": "粉蒸四季豆",
+                "dishes_desc": "泰戈尔说过：生如夏花之绚烂，死若秋叶之静美。”你只有短短两个月的寿命，却献给了世人那么多的美味珍馐，朴素到了极致也就成为了永恒。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=12548",
+                "like": 0,
+                "tags_info": [{
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 144,
+                        "text": "蔬菜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1441542435497_8422119108.JPG",
+                "material_video": "http://video.szzhangchu.com/mozhikaojichiA.mp4",
+                "process_video": "http://video.szzhangchu.com/mozhikaojichiB.mp4",
+                "dishes_id": 13841,
+                "dishes_name": "蜜汁烤鸡翅",
+                "dishes_desc": "蜜汁烤鸡翅以独特香甜的酱香味被大众喜爱。做法简单至极，还可以根据自己的口味调整，喜欢吃辣的话，加点辣椒粉吧！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=13841",
+                "like": 0,
+                "tags_info": [{
+                        "id": 398,
+                        "text": "肉类",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 154,
+                        "text": "鸡肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 333,
+                        "text": "烤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/dish_20150114091948110.jpg",
+                "material_video": "http://video.szzhangchu.com/liangbanhuangguaA.mp4",
+                "process_video": "http://video.szzhangchu.com/liangbanhuangguaB.mp4",
+                "dishes_id": 12464,
+                "dishes_name": "凉拌黄瓜",
+                "dishes_desc": "黄瓜最是有性格，生吃爽口，炒了柔嫩，凉拌最绝，最简单却最迷人，酸甜爽口永不厌。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=12464",
+                "like": 0,
+                "tags_info": [{
+                        "id": 316,
+                        "text": "酸",
+                        "type": 2
+                    },
+                    {
+                        "id": 309,
+                        "text": "防癌抗癌",
+                        "type": 2
+                    },
+                    {
+                        "id": 163,
+                        "text": "瓜果类",
+                        "type": 2
+                    },
+                    {
+                        "id": 144,
+                        "text": "蔬菜",
+                        "type": 2
+                    },
+                    {
+                        "id": 323,
+                        "text": "拌",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439461899776_2811019170.jpg",
+                "material_video": "http://video.szzhangchu.com/mangguomusidangaoA.mp4",
+                "process_video": "http://video.szzhangchu.com/mangguomusidangaoB.mp4",
+                "dishes_id": 9786,
+                "dishes_name": "芒果慕斯蛋糕",
+                "dishes_desc": "你说你是地地道道的芒果控，我怎么就那么不相信呢，因为你竟然跟我说你连这么好吃的芒果慕斯蛋糕都没有吃过。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=9786",
+                "like": 0,
+                "tags_info": [{
+                        "id": 317,
+                        "text": "甜",
+                        "type": 2
+                    },
+                    {
+                        "id": 334,
+                        "text": "冻",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439381448207_8493786716.JPG",
+                "material_video": "http://video.szzhangchu.com/chashugushouwushouroutangA.mp4",
+                "process_video": "http://video.szzhangchu.com/chashugushouwushouroutangB.mp4",
+                "dishes_id": 6137,
+                "dishes_name": "茶树菇首乌瘦肉汤",
+                "dishes_desc": "一口肉喷出了汤汁，一口汤喝出了甘甜，最后还剩点茶树菇，别浪费，嚼一嚼，越嚼越有味，根本停不下来！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=6137",
+                "like": 0,
+                "tags_info": [{
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 180,
+                        "text": "药膳汤",
+                        "type": 2
+                    },
+                    {
+                        "id": 145,
+                        "text": "菌菇",
+                        "type": 2
+                    },
+                    {
+                        "id": 399,
+                        "text": "荤菜汤",
+                        "type": 2
+                    },
+                    {
+                        "id": 331,
+                        "text": "炖",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439446896820_2726073254.jpg",
+                "material_video": "http://video.szzhangchu.com/suzhaxiangchunA.mp4",
+                "process_video": "http://video.szzhangchu.com/suzhaxiangchunB.mp4",
+                "dishes_id": 13305,
+                "dishes_name": "酥炸香椿",
+                "dishes_desc": "软香薄酥，椿香四溢，你的手下出京味，满锅秀色关不住，椿香自许出锅来。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=13305",
+                "like": 0,
+                "tags_info": [{
+                        "id": 289,
+                        "text": "增强免疫力",
+                        "type": 2
+                    },
+                    {
+                        "id": 322,
+                        "text": "淡",
+                        "type": 2
+                    },
+                    {
+                        "id": 330,
+                        "text": "炸",
+                        "type": 2
+                    },
+                    {
+                        "id": 160,
+                        "text": "叶菜类",
+                        "type": 2
+                    },
+                    {
+                        "id": 389,
+                        "text": "北京菜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439368374920_9958828662.JPG",
+                "material_video": "http://video.szzhangchu.com/chaozhoufenguoA.mp4",
+                "process_video": "http://video.szzhangchu.com/chaozhoufenguoB.mp4",
+                "dishes_id": 4960,
+                "dishes_name": "潮州粉果",
+                "dishes_desc": "Q糯微透的果皮，一口咬下，略带嚼劲，鲜美富有口感的内馅，越吃越香，自己亲手做更有家乡味。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=4960",
+                "like": 0,
+                "tags_info": [{
+                        "id": 209,
+                        "text": "广东小吃",
+                        "type": 2
+                    },
+                    {
+                        "id": 328,
+                        "text": "蒸",
+                        "type": 2
+                    },
+                    {
+                        "id": 229,
+                        "text": "其他",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 378,
+                        "text": "早餐",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439430246058_7263167373.jpg",
+                "material_video": "http://video.szzhangchu.com/hongyaodouxuelitangA.mp4",
+                "process_video": "http://video.szzhangchu.com/hongyaodouxuelitangB.mp4",
+                "dishes_id": 3625,
+                "dishes_name": "红腰豆雪梨汤",
+                "dishes_desc": "最近阴霾天气比较多，两个孩子都咳的停不下来，可把我着急坏了。就试试这道红腰豆雪梨汤，没想到效果还不错，推荐给大家。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=3625",
+                "like": 0,
+                "tags_info": [{
+                        "id": 198,
+                        "text": "红豆",
+                        "type": 2
+                    },
+                    {
+                        "id": 261,
+                        "text": "粤菜",
+                        "type": 2
+                    },
+                    {
+                        "id": 179,
+                        "text": "甜品汤",
+                        "type": 2
+                    },
+                    {
+                        "id": 163,
+                        "text": "瓜果类",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439378456455_3715059529.JPG",
+                "material_video": "http://video.szzhangchu.com/dangguizhupitangA.mp4",
+                "process_video": "http://video.szzhangchu.com/dangguizhupitangB.mp4",
+                "dishes_id": 5588,
+                "dishes_name": "当归猪皮汤",
+                "dishes_desc": "女性朋友们可以经常煲这款汤，补血养颜两不误，让你在这个感官世界，展现最好状态的自己！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=5588",
+                "like": 0,
+                "tags_info": [{
+                        "id": 151,
+                        "text": "猪肉",
+                        "type": 2
+                    },
+                    {
+                        "id": 296,
+                        "text": "益气补血",
+                        "type": 2
+                    },
+                    {
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    },
+                    {
+                        "id": 180,
+                        "text": "药膳汤",
+                        "type": 2
+                    },
+                    {
+                        "id": 399,
+                        "text": "荤菜汤",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439374448974_7338783672.jpg",
+                "material_video": "http://video.szzhangchu.com/xiansuanweipaoxihuluA.mp4",
+                "process_video": "http://video.szzhangchu.com/xiansuanweipaoxihuluB.mp4",
+                "dishes_id": 3127,
+                "dishes_name": "咸酸味泡西葫芦",
+                "dishes_desc": "这咸酸味泡西葫芦色白，脆嫩成香。泡菜中的经典菜系，下饭下酒必备！",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=3127",
+                "like": 0,
+                "tags_info": [{
+                        "id": 324,
+                        "text": "腌",
+                        "type": 2
+                    },
+                    {
+                        "id": 320,
+                        "text": "咸",
+                        "type": 2
+                    },
+                    {
+                        "id": 294,
+                        "text": "保肝护肾",
+                        "type": 2
+                    },
+                    {
+                        "id": 163,
+                        "text": "瓜果类",
+                        "type": 2
+                    },
+                    {
+                        "id": 144,
+                        "text": "蔬菜",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            },
+            {
+                "image": "http://img.szzhangchu.com/1439450931935_9783384411.JPG",
+                "material_video": "http://video.szzhangchu.com/wandouhuA.mp4",
+                "process_video": "http://video.szzhangchu.com/wandouhuB.mp4",
+                "dishes_id": 4316,
+                "dishes_name": "豌豆糊",
+                "dishes_desc": "也许习惯了炒一碟豌豆下酒，但是风格迥异的豌豆糊可能也会让你爱上。",
+                "share_url": "http://m.izhangchu.com/web/dishes_view/index.html?&dishes_id=4316",
+                "like": 0,
+                "tags_info": [{
+                        "id": 200,
+                        "text": "豌豆",
+                        "type": 2
+                    },
+                    {
+                        "id": 276,
+                        "text": "7~9个月",
+                        "type": 2
+                    },
+                    {
+                        "id": 332,
+                        "text": "煮",
+                        "type": 2
+                    },
+                    {
+                        "id": 321,
+                        "text": "鲜",
+                        "type": 2
+                    },
+                    {
+                        "id": 301,
+                        "text": "补钙",
+                        "type": 2
+                    }
+                ],
+                "comoditys": []
+            }
+        ]
+    }
+}

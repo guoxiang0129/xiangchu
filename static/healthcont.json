@@ -1,0 +1,134 @@
+{
+    "data": {
+        "page": "1",
+        "size": "10",
+        "total": "80",
+        "count": "10",
+        "top": [],
+        "data": [{
+                "series_id": 191,
+                "series_name": "#独道#养生果酱的秘密",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1496902585226_6118765324.jpg",
+                "album": "独道",
+                "album_logo": "http://img.szzhangchu.com/1495705520215_2472698151.png",
+                "episode_sum": 40,
+                "play": 131302,
+                "charge_count": 0
+            },
+            {
+                "series_id": 193,
+                "series_name": "#玩疯了#夏日DIY冰激凌",
+                "tag": "",
+                "episode": 19,
+                "image": "http://img.szzhangchu.com/1499412997870_5878933603.jpg",
+                "album": "玩疯了",
+                "album_logo": "http://img.szzhangchu.com/1498469896947_3676365090.JPG",
+                "episode_sum": 50,
+                "play": 71881,
+                "charge_count": 0
+            },
+            {
+                "series_id": 189,
+                "series_name": "#女子力科学社#这种最被嫌弃的避孕方法，居然是最靠谱的",
+                "tag": "",
+                "episode": 37,
+                "image": "http://img.szzhangchu.com/1497955330846_2383327771.jpg",
+                "album": "女子力科学社",
+                "album_logo": "http://img.szzhangchu.com/1494570990213_1473158789.png",
+                "episode_sum": 60,
+                "play": 147601,
+                "charge_count": 0
+            },
+            {
+                "series_id": 192,
+                "series_name": "#My Princess#洗脸好帮手，泡泡气泡网",
+                "tag": "",
+                "episode": 35,
+                "image": "http://img.szzhangchu.com/1499154605905_6412972735.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1497260936399_5043664646.png",
+                "episode_sum": 50,
+                "play": 128100,
+                "charge_count": 0
+            },
+            {
+                "series_id": 190,
+                "series_name": "#匠心手作#行色318-醉美新都桥",
+                "tag": "",
+                "episode": 3,
+                "image": "http://img.szzhangchu.com/1495778524089_2822576340.jpg",
+                "album": "匠心手作",
+                "album_logo": "http://img.szzhangchu.com/1495076674179_4000531138.png",
+                "episode_sum": 50,
+                "play": 16637,
+                "charge_count": 0
+            },
+            {
+                "series_id": 182,
+                "series_name": "#去过#情绪单细胞VS乱中有序的泰国",
+                "tag": "",
+                "episode": 13,
+                "image": "http://img.szzhangchu.com/1498123651179_5964518775.jpg",
+                "album": "去过",
+                "album_logo": "http://img.szzhangchu.com/1491808226018_3754036436.png",
+                "episode_sum": 30,
+                "play": 51090,
+                "charge_count": 0
+            },
+            {
+                "series_id": 188,
+                "series_name": "#Hi走啦#土豪！包下一辆火车游越南",
+                "tag": "",
+                "episode": 44,
+                "image": "http://img.szzhangchu.com/1498031141970_7892511962.jpg",
+                "album": "",
+                "album_logo": "http://img.szzhangchu.com/1493804646180_7735494160.jpg",
+                "episode_sum": 60,
+                "play": 169628,
+                "charge_count": 0
+            },
+            {
+                "series_id": 156,
+                "series_name": "#初次见#三千年的吴语，说着说着它就变了",
+                "tag": "",
+                "episode": 19,
+                "image": "http://img.szzhangchu.com/1494408553409_4399266022.jpg",
+                "album": "初次见",
+                "album_logo": "http://img.szzhangchu.com/1480042722359_2678611310.png",
+                "episode_sum": 40,
+                "play": 74355,
+                "charge_count": 0
+            },
+            {
+                "series_id": 168,
+                "series_name": "#玩疯了之创玩星球#海绵宝宝旋风吸尘器",
+                "tag": "",
+                "episode": 83,
+                "image": "http://img.szzhangchu.com/1497866415481_6313087115.jpg",
+                "album": "玩疯了之创玩星球",
+                "album_logo": "http://img.szzhangchu.com/1481882123240_6019379959.JPG",
+                "episode_sum": 120,
+                "play": 324241,
+                "charge_count": 0
+            },
+            {
+                "series_id": 184,
+                "series_name": "#狗窝视频#长得好看，才配做我的酒柜！",
+                "tag": "",
+                "episode": 42,
+                "image": "http://img.szzhangchu.com/1497430745473_6661915835.jpg",
+                "album": "狗窝视频",
+                "album_logo": "http://img.szzhangchu.com/1492853918068_5453784173.png",
+                "episode_sum": 50,
+                "play": 165178,
+                "charge_count": 0
+            }
+        ]
+    },
+    "code": "0",
+    "msg": "success",
+    "timestamp": 1499779326743,
+    "version": "4.4"
+}

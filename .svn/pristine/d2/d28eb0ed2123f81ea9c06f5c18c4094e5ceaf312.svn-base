@@ -1,0 +1,26 @@
+<template>
+    <alllist>
+        <div slot="header" class="header-left">
+            <router-link to="/">首页</router-link>
+            &nbsp;>&nbsp;
+            <router-link to="/community">社区</router-link>
+        </div>
+        <div class=""></div>
+    </alllist>
+</template>
+<script>
+    // 导入公共模块
+    import alllist from '../components/Alllist'
+
+    export default{
+        components:{
+            alllist
+        }
+    }           
+</script>
+<style>
+   header .header-left a{
+
+   }
+
+</style>
